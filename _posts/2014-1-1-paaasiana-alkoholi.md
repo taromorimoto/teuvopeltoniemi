@@ -1,10 +1,18 @@
 ---
 layout: post
-title: This post demonstrates post content styles
-categories: Miscellaneous
+title: Pääasiana alkoholi – käyttö, haitat, hoito, politiikka nyt ja 2040
+categories: Books
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Pääasiana alkoholi – käyttö, haitat, hoito, politiikka nyt ja 2040
+
+English: Alcohol as the main thing – use, harms, treatment, policy now and in 2014), Lundbeck.
+
+Helsinki 2013.
+
+ISBN 978-952-93-1517-8.
+
+![](/images/book-940.jpeg)
 
 ## Some great heading (h2)
 
