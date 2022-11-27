@@ -6,11 +6,11 @@ permalink: /publications/
 
 ---
 
-Updated October 23, 2022
+### PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2022
 
-**PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2022**
+_The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundred). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. All books including also larger reports (total 32 items) are also listed at the Finnish National Library catalog "KANTO". This is not a complete list, as there many gaps especially for years 1990-2001.  Many of the recent items can easily be found on-line._
 
-The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundred). Items not in Finnish are marked by \*. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by #. All books including also larger reports (total 32 items) are also listed at the Finnish National Library catalog "KANTO". This is not a complete list, as there many gaps especially for years 1990-2001.  Many of the recent items can easily be found on-line.
+### Updated October 23, 2022
 
 **2022**
 
@@ -146,7 +146,7 @@ Peltoniemi, Teuvo: Varjoja auringossa. Tiimi 3/2013: 12-15.
 
 Peltoniemi, Teuvo: Asunnottomia suomalaisia Aurinkorannikolla, Iltalehti.fi –blogit  5.4.2013.
 
-# Peltoniemi, Teuvo (toim.): Pääasiana alkoholi – käyttö, haitat, hoito, politiikka nyt ja 2040.  Lundbeck, Helsinki 2013.
+\# Peltoniemi, Teuvo (toim.): Pääasiana alkoholi – käyttö, haitat, hoito, politiikka nyt ja 2040.  Lundbeck, Helsinki 2013.
 
 Peltoniemi, Teuvo: Suomalainen alkoholiyhteiskunta muutostiellä. Sivut 7-8 teoksessa: Peltoniemi, Teuvo (toim.): Pääasiana alkoholi – käyttö, haitat, hoito, politiikka nyt ja 2040.  Lundbeck, Helsinki 2013.
 
@@ -244,11 +244,11 @@ Peltoniemi, Teuvo: Fiat 600 ja 0.2 promillen rattijuoppousraja. Teuvoblogi - P�
 
 Peltoniemi, Teuvo: Iso-Antti ja suuri omena – mestari palkittiin. Teuvoblogi - Päihdepuhetta 12.1.2010.
 
- **2009**
+**2009**
 
 Peltoniemi, Teuvo: Kohtuutta romanialaisittain. Teuvoblogi - Tiimin päätoimittajan blogi 31.12.2009.
 
-# Peltoniemi, Teuvo: Terassilta tiputukseen. Puheenvuoroja päihteistä. Raporttisarja nro 56,  A\-klinikkasäätiö 2009.
+\# Peltoniemi, Teuvo: Terassilta tiputukseen. Puheenvuoroja päihteistä. Raporttisarja nro 56,  A\-klinikkasäätiö 2009.
 
 Peltoniemi, Teuvo: Iberian suomalaisten päihdeongelmat. Päivitetty versio. Sivut 116-124 teoksessa Peltoniemi, Teuvo: Terassilta tiputukseen. Puheenvuoroja päihteistä. Raporttisarja nro 56, A-klinikkasäätiö 2009.
 
@@ -288,7 +288,7 @@ Peltoniemi, Teuvo: Kuningatar Silvia ja kansainvälinen huumepolitiikka. Teuvob
 
 Peltoniemi, Teuvo: Komissio kännykänkäyttäjän puolella - Antti Peltomäen haastattelu. Teuvoblogi - Tiimin päätoimittajan blogi 1.3.2009.
 
- **2008**
+**2008**
 
 Peltoniemi, Teuvo: “Tutkimus osoittaa”… Teuvoblogi - Tiimin päätoimittajan blogi 20.12.2008.
 
@@ -570,7 +570,7 @@ Peltoniemi, Teuvo: Riippuvuuksien riippuvuudet. Tiimi 1/2004.
 
 Peltoniemi, Teuvo: Toimittajien päihdekoulutus - Päihdetiedotusseminaarien 20-vuotinen taival. A-klinikkasäätiön moniste 37:2004. 32 s. Also as pdf
 
-# Peltoniemi, Teuvo: www.utopias.info – Towards a Better Word. Multimedia Internet site on utopian settlements, Feb 2004.
+\# Peltoniemi, Teuvo: www.utopias.info – Towards a Better Word. Multimedia Internet site on utopian settlements, Feb 2004.
 
 **2003**
 
@@ -646,9 +646,9 @@ Peltoniemi, Teuvo: Telemaattinen auttaminen ja ammattilaiset. Stakesin, Pohjois
 
 \*Peltoniemi, Teuvo: Zerbrechliche Kindheit - ein langfristiges gemeinsames Unterstützungsprojekt für Kinder aus Alkohol-Familien in Finnland. Fachtagung Eltern - Bilden Sucht, Linz, May 14-18, 2003.
 
-# Utoslahti, Kirsi & Peltoniemi, Teuvo (toim.): Pikkuaikuisia kirjoituskilpailun kertomuksia ja tutkimustietoa Lasinen lapsuus hankkeesta. A-klinikkasäätiön raporttisarja nro 42. Helsinki 2003.
+\# Utoslahti, Kirsi & Peltoniemi, Teuvo (toim.): Pikkuaikuisia kirjoituskilpailun kertomuksia ja tutkimustietoa Lasinen lapsuus hankkeesta. A-klinikkasäätiön raporttisarja nro 42. Helsinki 2003.
 
- **2002**
+**2002**
 
 Peltoniemi, Teuvo: Ammattikunta raitistumisen tiellä. Journalisti 4/2002.
 
@@ -682,7 +682,7 @@ Peltoniemi, Teuvo: Toimittajien ammattikunta raitistumassa. Tiimi 2/2002.
 
 Peltoniemi, Teuvo: Uutisia Ruotsin sosiaali- ja terveyskehityksestä. Tiimi 5/2002.
 
- **2001**
+**2001**
 
 \*Peltoniemi, Teuvo: AddictionLink anonymous web counselling and self-assessment tests. Going for the Gold. International Conference. Vancouver, Canada, 6-9 March 2001.
 
@@ -710,7 +710,7 @@ Peltoniemi, Teuvo: "Päihteetön työpaikka" ja huumeet. Tiimi 3-4/2001.
 
 \*Peltoniemi, Teuvo: Telematic drug and alcohol work: theory and practical solutions. Estonian Foundation for Prevention of Drug Addiction seminar on Elaboration of Drug Information, Prevention and Treatment Networking. Tallin, Estonia, Jan. 12, 2001.
 
- **2000**
+**2000**
 
 Peltoniemi, Teuvo: Alkoholi, huumeet ja ihmisen vapaus. Tiimi 3-4/2000.
 
@@ -732,7 +732,7 @@ Peltoniemi, Teuvo: Telematia: kokeiluista osaksi arkityötä. Tiimi 6/2000.
 
 \* Peltoniemi, Teuvo: Telematic drug and alcohol work in Finland. Percorsi di Integrazione 2/2000.
 
- **1999**
+**1999**
 
 Peltoniemi, Teuvo: Ihmiskasvoista telematiikkaa tarvitaan, MikroPC 7/1999.
 
@@ -770,7 +770,7 @@ Peltoniemi, Teuvo: Tietoyhteiskunta muuttaa rankasti myös päihdehuollon todell
 
 **1998**
 
-# Peltoniemi, Teuvo & Larmela, Timo: Kahta mieltä kannabiksesta. A-klinikkasäätiö. Helsinki 1998.
+\# Peltoniemi, Teuvo & Larmela, Timo: Kahta mieltä kannabiksesta. A-klinikkasäätiö. Helsinki 1998.
 
 \*Peltoniemi, Teuvo: Children of alcohol families in treatment systems in Finland. Eight International Conference on Treatment of Addictive Behaviours. Santa Fe, New Mexico, USA, January 11-15,1998.
 
@@ -852,13 +852,13 @@ Peltoniemi, Teuvo: Päihdeperhe on kansanterveysongelma 3-4/95 s 3
 
 Peltoniemi, Teuvo: Tiedotusvälineiden seuraaminen Iberian suomalaisten keskuudessa. Iberia-projektin väliraportti 1. Sosiomedia. Helsinki 1995.
 
- **1994**
+**1994**
 
 \*Peltoniemi, Teuvo: "A Fragile Childhood "- A Finnish Health Education Project for the Children in Alcohol and Drug Abusing Families A paper prepared for ICDAPS-JISUS Conference On Effective Parenting to Prevent Drug Abuse in Conjunction with UN Day 30th October -1st November, 1994 Miyazaki, Japan.
 
 \*Peltoniemi, Teuvo: A Fragile Childhood - Project Description and Results from A Finnish National Survey and Prevention Project on Children Alcohol Abusing Families Paper presented ath the Tenth International Congress on Child Abuse and Neglect. Kuola Lumpur, Malesia 10-13 Sept 1994.
 
-# Peltoniemi, Teuvo: Claudia Black: Kunpa isi ei joisi - päihdeperheen lapsen työkirja. Käännös. A-klinikkasäätiö. Helsinki 1994.
+\# Peltoniemi, Teuvo: Claudia Black: Kunpa isi ei joisi - päihdeperheen lapsen työkirja. Käännös. A-klinikkasäätiö. Helsinki 1994.
 
 Peltoniemi, Teuvo: Nyt lobbaamaan. Tiimi 2/1994, s 3-4
 
@@ -884,7 +884,7 @@ Peltoniemi, Tapani Sarvanti, Maila Upanne). Sosiaali- ja terveysministeriön esi
 
 Peltoniemi, Teuvo: "Lasinen lapsuus" -projektiesite. A-klinikkasäätiö, Alko ja Helsingin kaupungin sosiaaliviraston raittiustoimisto 1992.
 
-# Peltoniemi, Teuvo: Nuorten päihdeongelmien kohtaaminen. Sosiomedia. Helsinki 1992.
+\# Peltoniemi, Teuvo: Nuorten päihdeongelmien kohtaaminen. Sosiomedia. Helsinki 1992.
 
 Peltoniemi, Teuvo: Sörkkä-Kuopio-Vantaa: Henry Dahlberg haastateltavana. Tiimi 1/92: 9-13.
 
@@ -894,17 +894,17 @@ Peltoniemi, Teuvo: Sörkkä-Kuopio-Vantaa: Henry Dahlberg haastateltavana. Tiim
 
 \*Peltoniemi, Teuvo: Barnets ställning i alkohol- och våldsfamiljer. I: Grönlandsseminariet 1991. Nordiska samarbetsrådet för kriminologi. Ss 75-80. Stockholm 1991.
 
-# Peltoniemi, Teuvo: Lapsuus lasin varjossa. Robert J. Ackermanin "Children of Alcoholics" -teoksen Suomen oloihin muokattu käännös. A-klinikkasäätiö ja VAPK-kustannus. Helsinki 1991. (135 s.)
+\# Peltoniemi, Teuvo: Lapsuus lasin varjossa. Robert J. Ackermanin "Children of Alcoholics" -teoksen Suomen oloihin muokattu käännös. A-klinikkasäätiö ja VAPK-kustannus. Helsinki 1991. (135 s.)
 
 Peltoniemi, Teuvo: Kohti parempaa maailmaa: Suomalaisten ihannesiirtolaisuus. Jyväkylän kesän avajaiset 10.6.1991.
 
 Peltoniemi, Teuvo: Lasten seksuaalinen hyväksikäyttö. Otavan Suuri Ensyklopedia. II täydennysosa. Ss. 10219-10220. Otava. Keuruu 1991.
 
-# Peltoniemi, Teuvo: Moni ottaa ja ajaa -rattijuoppous Suomessa. (toim.). VAPK-kustannus. Helsinki 1991.
+\# Peltoniemi, Teuvo: Moni ottaa ja ajaa -rattijuoppous Suomessa. (toim.). VAPK-kustannus. Helsinki 1991.
 
 Peltoniemi, Teuvo: Opaskirja lasten seksuaalisen hyväksikäytön hoidosta. Stina Sundholmin kirjan: Insesti, Gaudeamus 1989, arvostelu. Psykologia 3/1991: 237-238.
 
- **1990**
+**1990**
 
 \*Peltoniemi, Teuvo: Alcohol and family violence. A paper presented at the 8th International congress on child abuse and neglect. Hamburg, September 2-6, 1990.
 
@@ -926,7 +926,7 @@ Peltoniemi, Teuvo: Vanhemmat huumevalistuksen kohteena. Tiimi 1/1990: 15-19.
 
 \*Peltoniemi, Teuvo: V lutshschij mir - vystavka, posvjatstennaja finskoj utopitseskoj migratsij. Priorskij filial geografitseskogo obtschestva an SSSR. Vladivostok 1990. 8 s
 
- **1989**
+**1989**
 
 Peltoniemi, Teuvo: Alkoholi ja perheväkivaltailmiöt. Alkoholi ja väkivalta -seminaari. Helsinki 4.4.1989. (4 s.)
 
@@ -974,9 +974,9 @@ Peltoniemi, Teuvo: Namusedät ja namuisät - insesti. Myötäote 4/1988: 4-7.
 
 \*Peltoniemi, Teuvo & Orre, Meeri: Police response to domestic disturbance calls in Helsinki. Violence, Aggression and Terrorism 2(3), 221-245, 1988.
 
-# Peltoniemi, Teuvo: Yhteinen salaisuus - seksuaalisesti hyväksikäytetyt lapset kertovat. Otava. Keuruu 1988. (215 sivua).
+\# Peltoniemi, Teuvo: Yhteinen salaisuus - seksuaalisesti hyväksikäytetyt lapset kertovat. Otava. Keuruu 1988. (215 sivua).
 
- **1987**
+**1987**
 
 Peltoniemi, Teuvo: A-klinikkatoimen profiilia nostamaan. Tiimi 5/1987: 3.
 
@@ -990,11 +990,11 @@ Peltoniemi, Teuvo: Arkinen, arktinen ja arkaainen humala - onko suomalaista viin
 
 \*Peltoniemi, Teuvo: Family violence research in Finland. Family Violence Research Conference for Practioners and Policymakers, Durham, N.H. July 9-11, 1987. (4 sivua)
 
-# Peltoniemi, Teuvo: Kohti parempaa maailmaa - Kertomus suomalaisten utopiasiirtokunnista. Video. Helsingin Tietovideo 1988. 37 min.
+\# Peltoniemi, Teuvo: Kohti parempaa maailmaa - Kertomus suomalaisten utopiasiirtokunnista. Video. Helsingin Tietovideo 1988. 37 min.
 
 Peltoniemi, Teuvo: Kohti parempaa maailmaa - Towards a better world - Drömmen om en bättre värld. Näyttelyesite. Kristillinen kulttuuriliitto. Helsinki 1987. (20 sivua)
 
-# Peltoniemi, Teuvo: Kohti parempaa maailmaa. Utopiasiirtolaisuuden näyttely. Kokonaan uusittu laitos. Kristillinen kulttuuriliitto 1987.
+\# Peltoniemi, Teuvo: Kohti parempaa maailmaa. Utopiasiirtolaisuuden näyttely. Kokonaan uusittu laitos. Kristillinen kulttuuriliitto 1987.
 
 Peltoniemi, Teuvo: Perheväkivalta ja päihdehuolto. Pohjois-Suomen päihdepäivät. Oulu 19.2.1987. (20 sivua)
 
@@ -1052,7 +1052,7 @@ Peltoniemi, Teuvo: Karua elämää ihanneyhteisöissä. Helsingin Sanomat, sunn
 
 Peltoniemi, Teuvo: Kaukaiset utopiat. Korkki 2/1985: 10-12.
 
-# Peltoniemi, Teuvo: Kohti parempaa maailmaa - suomalaisten ihannesiirtokunnat 1700- luvulta nykypäivään. Otava. 1985. (240 sivua)
+\# Peltoniemi, Teuvo: Kohti parempaa maailmaa - suomalaisten ihannesiirtokunnat 1700- luvulta nykypäivään. Otava. 1985. (240 sivua)
 
 Peltoniemi, Teuvo: Lasten seksuaalinen hyväksikäyttö. Päihdepuhelimen ohjelmanauha. Helsingin kaupungin raittiustoimisto. Myös Korkki 2/1985.
 
@@ -1072,7 +1072,7 @@ Peltoniemi, Teuvo: Pohjoismainen huumeseminaari koolla Tanskassa. Korkki 1/1985
 
 Peltoniemi, Teuvo: Uutta perheväkivaltatutkimuksesta. Perheterapia. Vol. 1 (1): 17-19, 1985.
 
- **1984**
+**1984**
 
 \*Peltoniemi, Teuvo: Alcohol and family violence. Paper presented at the Second National Conference for Family Violence Researchers, Durham, N.H. August 4-7, 1984.
 
@@ -1094,7 +1094,7 @@ Peltoniemi, Teuvo: Nuoret ja päihteet. Raittiussanomat 15/1984.
 
 Peltoniemi, Teuvo: Perhe, alkoholi ja väkivalta. Suomen Nainen 10/1984: 22-23.
 
-# Peltoniemi, Teuvo: Perheväkivalta. Otava. Keuruu 1984. (268 sivua).
+\# Peltoniemi, Teuvo: Perheväkivalta. Otava. Keuruu 1984. (268 sivua).
 
 Peltoniemi, Teuvo: Perheväkivalta - yhteinen ongelmamme. Terveydenhoitaja 3/1984: 7- 11.
 
@@ -1106,9 +1106,9 @@ Peltoniemi, Teuvo: Perheväkivalta sosiaalisena ongelmana. Alkoholipolitiikka.�
 
 Peltoniemi, Teuvo: Suomessa tarvitaan tietoa lasten seksuaalisesta hyväksikäytöstä. Lapset ja yhteiskunta. Vol. 43(3): 182-185, 1984.
 
- **1983**
+**1983**
 
-# Peltoniemi, Teuvo & Voipio, Martti (toimittanut): Alkoholi ja yhteiskunta. Otava. Keuruu 1983. (384 sivua)
+\# Peltoniemi, Teuvo & Voipio, Martti (toimittanut): Alkoholi ja yhteiskunta. Otava. Keuruu 1983. (384 sivua)
 
 Peltoniemi, Teuvo: Alkoholi ja kulttuuri. Ss. 13-22 teoksessa: Peltoniemi, Teuvo & Voipio, Martti (toim.): Alkoholi ja yhteiskunta. Otava. Keuruu 1983.
 
@@ -1184,7 +1184,7 @@ Peltoniemi, Teuvo: Perheväkivalta Suomessa ja Ruotsissa - yleisyys ja asenteet.
 
 Peltoniemi, Teuvo: Poliisin tietoon tullut perheväkivalta Turussa. Suomen Poliisilehti. Vol 62(10): 280-283, 1982.
 
-# Peltoniemi, Teuvo & Leskinen, Riitta & Mäkinen, Tuija: Täällä ei tarvitse pelätä - tutkimus turvakodeista. Ensi Kotien liitto 1/1982. (164 sivua).
+\# Peltoniemi, Teuvo & Leskinen, Riitta & Mäkinen, Tuija: Täällä ei tarvitse pelätä - tutkimus turvakodeista. Ensi Kotien liitto 1/1982. (164 sivua).
 
 Peltoniemi, Teuvo: Terve kasvuympäristö -projektin tutkimukset. Tutkimussuunnitelma. Uudenmaan lääninhallitus. Sosiaali- ja terveysosasto 1982. (44 sivua)
 
@@ -1260,7 +1260,7 @@ Peltoniemi, Teuvo: Turvakotien ensimmäinen puolivuotistaival. Ensikotiväen le
 
 Peltoniemi, Teuvo: Tutkimus säilöönottokäytännön muutoksista. Alkoholipolitiikka 2/1980: 1974-75.
 
- **1979**
+**1979**
 
 Peltoniemi, Teuvo: Alkoholipolitiikan mahdollisuudet kehnot Maltalla. Raittiussanomat 1/1979.
 
@@ -1288,7 +1288,7 @@ Peltoniemi, Teuvo: Tornion ja Haaparannan nuorten vapaa-aika ja tornionlaaksoper
 
 Peltoniemi, Teuvo: Uusien tutkimusten ja lähestymistapojen vaikutus alkoholitutkimuksessa ja -huollossa. Alkoholikysymys 4/1979: 92-98.
 
- **1978**
+**1978**
 
 Peltoniemi, Teuvo: Espanjalainen käsityskanta - viininjuonti ei ole ongelma. Sosiaaliturva 17/1978: 712-715.
 
@@ -1358,7 +1358,7 @@ Peltoniemi, Teuvo: Tiedotustoiminta ja liikenneturvallisuus - Uusi Seelanti. Li
 
 Peltoniemi, Teuvo: Vuodenalun 1975 hinnankorotusten vaikutuksia helsinkiläisten alkoholinkäyttöön. Alkoholipoliittisen tutkimuslaitoksen tutkimusseloste 104/1976. (32 s. + liitteitä)
 
- **1975**
+**1975**
 
 Peltoniemi, Teuvo: & Lunnas, Kari: Ajokortinomistajien suhtautuminen nopeusrajoituksiin 1973 ja 1974. Tie ja liikenne 7/1975: 280-282.
 
@@ -1416,7 +1416,7 @@ Peltoniemi, Teuvo: Alueellisia ylimäärälähetyksiä peruskoulusta. Linkki, h
 
 Peltoniemi, Teuvo: Kannattaako liikennevalistus. Tv-ohjelman käsikirjoitus. 30 min. TV-2 18.10.1973.
 
-# Peltoniemi, Teuvo: Kemin koululaisten päihteiden käyttö 1968 ja 1972. Tampereen yliopiston sosiaalipolitiikan laitos 33. 266 sivua. Tampere 1973.
+\# Peltoniemi, Teuvo: Kemin koululaisten päihteiden käyttö 1968 ja 1972. Tampereen yliopiston sosiaalipolitiikan laitos 33. 266 sivua. Tampere 1973.
 
 Peltoniemi, Teuvo: Kemin teinien julkaisutoiminnasta. Jatuli - Kemin museoyhdistyksen vuosikirja 1973: 196-197.
 
