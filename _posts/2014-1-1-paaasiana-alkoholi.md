@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Pääasiana alkoholi – käyttö, haitat, hoito, politiikka nyt ja 2040
+image: book-940.jpeg
+order: www.sosiomedia.fi
 categories: Books
 ---
+
+![](images/book-940.jpeg)
 
 Pääasiana alkoholi – käyttö, haitat, hoito, politiikka nyt ja 2040
 
@@ -12,7 +16,7 @@ Helsinki 2013.
 
 ISBN 978-952-93-1517-8.
 
-![](/images/book-940.jpeg)
+[Order](https://www.sosiomedia.fi)
 
 ## Some great heading (h2)
 
