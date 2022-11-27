@@ -294,7 +294,6 @@ p>img {
 //
 
 .wrapper-masthead {
-  background-color: #ffffffd0;
   margin-bottom: 25px;
 }
 
@@ -380,7 +379,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      font-size: 20px;
     }
   }
 }
@@ -390,14 +389,17 @@ nav {
 //
 
 .hero {
+  width: 100vw;
   height: 500px;
+  margin-top: -25px;
   background-size: cover;
   background-position: center top;
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: -1;
+  position: relative;
+  left: calc(-50vw + 360px);
+
+  @include mobile {
+    left: -10px;
+  }
 }
 
 .posts {
