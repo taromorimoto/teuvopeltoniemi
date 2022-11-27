@@ -6,7 +6,7 @@ order: www.sosiomedia.fi
 categories: Books
 ---
 
-![](images/book-940.jpeg)
+![](/images/book-940.jpeg)
 
 Pääasiana alkoholi – käyttö, haitat, hoito, politiikka nyt ja 2040
 

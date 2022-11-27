@@ -129,6 +129,16 @@ table tr td :last-child {
     line-height: 0.75em;
 }*/
 
+#books {
+  h4 {
+    text-align: left;
+  }
+  .book {
+    display: flex;
+    gap: 20px;
+  }
+}
+
 #search-container {
   text-align: center;
 }
