@@ -10,6 +10,12 @@ title: Latests news
         <h2>{{ post.title }}</h2>
         <div>
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+          <div class="post-tags">
+            {% for category in post.categories %}
+              <span>{{category}}</span>
+              {% unless forloop.last %}&nbsp;{% endunless %}
+            {% endfor %}
+          </div>
         </div>
       </a>
       <div class="entry">

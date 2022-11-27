@@ -13,6 +13,7 @@ title: Books
       <h4><a href="{{ site.baseurl }}{{ post.url }}">
         {% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}
       </a></h4>
+      <div>ISBN: {{ post.ISBN }}</div>
       <a href="{{ post.order }}">
         Order
       </a>
