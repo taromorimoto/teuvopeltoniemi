@@ -10,7 +10,7 @@ permalink: /files/
 
 _Publications are in pdf or Word format._
 
-Peltoniemi, Teuvo:� What are Internet and the ICT bringing to us? Prevnet Network and views on the future. Final Conference of� the Twinning Project �Support to the implementation of the National Programme for the Fight Against Drugs 2004-2008�, Bratislava, Slovakia,� 12 December 2006. [Download](/files/Peltoniemi_Bratislava_ENG.pdf)
+Peltoniemi, Teuvo:� What are Internet and the ICT bringing to us? Prevnet Network and views on the future. Final Conference of� the Twinning Project �Support to the implementation of the National Programme for the Fight Against Drugs 2004-2008�, Bratislava, Slovakia,� 12 December 2006. [Download](../files/Peltoniemi_Bratislava_ENG.pdf)
 
 Peltoniemi, Teuvo: P�ihdelinkki 10 vuotta � tietopankista e-auttamiseen.� P�ihdelinkki 10 vuotta �juhlaseminaari. Helsinki 9.6.2006. [Download](/files/Peltoniemi_%20PL10v.doc)
 
