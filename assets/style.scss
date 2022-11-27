@@ -132,10 +132,21 @@ table tr td :last-child {
 #books {
   h4 {
     text-align: left;
+    margin-top: 0;
   }
   .book {
+    img {
+      width: 150px;
+      margin-bottom: auto;
+
+      @include mobile {
+        width: 100px;
+      }
+    }
+
     display: flex;
     gap: 20px;
+    margin: 20px 0;
   }
 }
 
