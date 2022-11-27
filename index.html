@@ -8,8 +8,8 @@ title: Latests news
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h2>{{ post.title }}</h2>
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+        <div class="post_meta">
+          <span class="post_date">{{ post.date | date: "%B %e, %Y" }}</span>
           <div class="post-tags">
             {% for category in post.categories %}
               <span>{{category}}</span>
