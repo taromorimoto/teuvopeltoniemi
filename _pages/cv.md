@@ -8,23 +8,22 @@ title: CV
 
 Updated November 6, 2020
 
-**Contact**
-Sosiomedia oy, Sepänkatu 19 A 21, FI-00150 Helsinki, Finland
-teuvo.peltoniemi at kolumbus.fi | www.teuvopeltoniemi.net
+### Contact
 
-***
+Sosiomedia Oy, Sepänkatu 19 A 21, FI-00150 Helsinki, Finland
+teuvo.peltoniemi at kolumbus.fi | www.teuvopeltoniemi.net
 
 ### Brief
 
-Lic . Soc. Sc. Teuvo Peltoniemi is the Owner and Editor-in-Chief of Sosiomedia , a media and research agency. He is a journalist, science writer and researcher specialised on social and health topics, the use of internet and mobile tools in psycho-social issues, and emigration, .
+Lic. Soc. Sc. Teuvo Peltoniemi is the Owner and Editor-in-Chief of Sosiomedia, a media and research agency. He is a journalist, science writer and researcher specialised on social and health topics, the use of internet and mobile tools in psycho-social issues, and emigration.
 
 Since 1980s he worked over 20 years at the A-Clinic Foundation as e.g. the Communications Director and Editor-in-Chief of Tiimi Journal and AddictionLink . He started Addiction Link online services (Päihdelinkki, Päihdepuhelin, Promille etc.) and with Ari Saarto the Fragile Childhood (Lasinen lapsuus) prevention activities for Children in Alcohol families. The ideas of these still operating projects were later expanded to other EU countries.
 
 He has previously worked as a university teacher and researcher as well as journalist for the Finnish radio and television, and video companies, and developed domestic and European prevention projects.
 
-On European level he is Founder and Honorary President of the European [Prevnet](http://www.prevnet.net/) telematic network, as well as Founding member and ex-President of the European [Encare Network](http://www.encare.info/) on children in substance abuse families
+On European level he is Founder and Honorary President of the European [Prevnet](http://www.prevnet.net/) telematic network, as well as Founding member and ex-President of the European [Encare Network](http://www.encare.info/) on children in substance abuse families.
 
-He organized for 26 years popular annual European cooperative seminars about substances for the media (Päihdetiedotusseminaari ).
+He organized for 26 years popular annual European cooperative seminars about substances for the media (Päihdetiedotusseminaari).
 
 Mr. Peltoniemi has written, edited or translated 18 books on alcohol, drug policy, family violence, utopian emigration, traffic and telematics . He was the first to study and publish books on family violence, child abuse and sexual abuse of children in Finland. He has presented hundreds of papers at Finnish and international training sessions ans conferences.
 
@@ -32,9 +31,9 @@ Mr. Peltoniemi has written, edited or translated 18 books on alcohol, drug polic
 
 ### Education
 
-Kemin lyseo , matriculation examination, 1969
-University of Tampere, MA (Sociology, Mass Communication, Social Policy), 1974
-University of Helsinki, Licentiate of Social Sciences, 1980
+* Kemin lyseo , matriculation examination, 1969
+* University of Tampere, MA (Sociology, Mass Communication, Social Policy), 1974
+* University of Helsinki, Licentiate of Social Sciences, 1980
 
 ### Main languages
 
@@ -52,7 +51,7 @@ Finnish, English, Swedish, German
 
 ### Professional affiliation record
 
-2009-, Sosiomedia oy_Owner &Editor-in-Chief
+2009-, Sosiomedia Oy, Owner & Editor-in-Chief
 
 1987-2009, A-Clinic Foundation_Communications Director, Editor-in Chief of Tiimi Journal and Nettiimi, as well as AddictionLink net publications, Senior adviser at media and substance issues
 
@@ -77,7 +76,9 @@ Part-time lecturer, Alcohol, drugs, traffic, emigration and mass communication i
 1969-1980, Finnish Broadcasting Company
 Free lance based reporter and producer at documentary radio channels and TV-2, Societal documentary programs, news, traffic problems, travel and emigration issues
 
+
 ***
+
 
 ## Memberships of professional bodies
 
@@ -113,7 +114,9 @@ Free lance based reporter and producer at documentary radio channels and TV-2, S
 * Culture and Science Foundation Kemi2000 (Delegation member 2017-)
 * Ministry of Social Welfare and Health Board of the Directing the Project on the Development of telematics in social care (Board member 2006-09)
 
+
 ***
+
 
 ## Awards related to the work of Mr. Peltoniemi and his team
 
