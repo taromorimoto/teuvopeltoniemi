@@ -371,6 +371,7 @@ nav {
   font-family: $helveticaNeue;
   font-size: 18px;
   white-space: nowrap;
+  margin-right: -50px;
 
   @include mobile {
     float: none;
@@ -382,6 +383,8 @@ nav {
 
   @media only screen and (min-width: 768px) {
     white-space: initial;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   a {
@@ -395,6 +398,9 @@ nav {
       margin: 0 10px;
       font-size: 20px;
     }
+  }
+  a:first-child {
+    margin-left: 0;
   }
 }
 
