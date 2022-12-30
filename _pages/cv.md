@@ -27,8 +27,6 @@ He organized for 26 years popular annual European cooperative seminars about sub
 
 Mr. Peltoniemi has written, edited or translated 18 books on alcohol, drug policy, family violence, utopian emigration, traffic and telematics . He was the first to study and publish books on family violence, child abuse and sexual abuse of children in Finland. He has presented hundreds of papers at Finnish and international training sessions ans conferences.
 
-***
-
 ### Education
 
 * Kemin lyseo , matriculation examination, 1969

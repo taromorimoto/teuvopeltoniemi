@@ -59,7 +59,7 @@ h6 {
 
 h1 {
   font-size: 30px;
-  letter-spacing: 1.5px;
+  letter-spacing: 1px;
 
   a {
     color: inherit;
@@ -68,7 +68,7 @@ h1 {
 
 h2 {
   font-size: 24px;
-  letter-spacing: 1px;
+  letter-spacing: 0.2px;
 }
 
 h3 {
@@ -505,12 +505,13 @@ footer {
 .post_meta {
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 10px;
 }
 
 .post_date {
   text-align: left;
   color: #5b6064;
+  font-size: 14px;
 }
 
 .cd-container a {
@@ -751,7 +752,7 @@ Modules - reusable parts of our design
 }
 
 .post-tags a, .post-tags span {
-  font-size: 14.5px;
+  font-size: 14px;
   padding: 2px 13px;
   border: none;
   background-color: #424b5b;
