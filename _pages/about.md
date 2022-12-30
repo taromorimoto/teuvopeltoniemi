@@ -14,7 +14,7 @@ He worked over 20 years at the A-Clinic Foundation in Helsinki, Finland, e.g. as
 
 Mr. Peltoniemi has MA and Lic. Soc. Sc. degrees in sociology, social policy and mass communication from the Universities of Tampere and Helsinki. He shares his time between Helsinki, Finland and Fuengirola, Spain.
 
-He has written, edited or translated 18 [books](/books) on alcohol, drug policy, family violence, utopian emigration, traffic and telematics. He regularly writes general and scientific articles and presents papers at national and international conferences so that number of titles in his CV is over 500. He has produced into Finnish about 150 international prevention and training video programs on health and social topics. He was the main organiser of a special training seminar for journalists on addictions nearly for 30 years.
+He has written, edited or translated 18 [books]({{ site.baseurl }}/books) on alcohol, drug policy, family violence, utopian emigration, traffic and telematics. He regularly writes general and scientific articles and presents papers at national and international conferences so that number of titles in his CV is over 500. He has produced into Finnish about 150 international prevention and training video programs on health and social topics. He was the main organiser of a special training seminar for journalists on addictions nearly for 30 years.
 
 Mr. Peltoniemi appears often in the Finnish media as a specialist on addictions, utopian emigration, net services and other related topics.
 
@@ -24,4 +24,4 @@ Mr. Peltoniemi and his teams have received a number of Finnish and EU awards. Th
 
 Most recent personal stories about Mr Peltoniemi were published (in Finnish) e.g. in [Suomalaisia etsim�ss�](https://nakoislehti.hs.fi/7ac11991-7cb4-4ac5-b364-a1c4f75cb3a7/10) Helsingin Sanomien kuukausiliite 3.2.2018, [Kelan El�m�ss�](https://elamassa.fi/elakkeella/muutto-elakkeella-espanjaan-sosiaaliturva-ulkomailla) 19.4.2017, Suomalainen Espanjassa 18.2.2014, [Tiedetoimittaja](http://www.tiedetoimittajat.fi/lehdet/Tiedetoimittaja4_11.pdf) 4/2012:19, 22, Radio Finland [Taustapeili](http://yle.fi/radiosuomi/taustapeili/2011/10/teuvo_peltoniemi_-_vaiettujen_aiheiden_aanitorvi_2940156.html) 11.10.2011, and in [Yliopisto magazine](http://www.kolumbus.fi/teuvo.peltoniemi/files/Peltoniemi_Yliopisto_5-2007.pdf) 5/2007.
 
-[More CV details](/cv)
+[More CV details]({{ site.baseurl }}/cv)
