@@ -14,9 +14,17 @@ title: Books
         {% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}
       </a></h4>
       <div>ISBN: {{ post.ISBN }}</div>
-      <a href="{{ post.order }}">
-        Order
-      </a>
+      <p>
+        {% if post.published %}
+          <span>{{ post.published }}</span>
+        {% endif %}
+        {% if post.ISBN %}
+          <span>ISBN {{ post.ISBN }}</span>
+        {% endif %}
+      </p>
+      {% if post.order %}
+        <a href="{{ post.order }}">Order</a>
+      {% endif %}
     </div>
   </article>
   {% endfor %}

@@ -466,6 +466,12 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+
+  img.post-main-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
 }
 
 .wrapper-container {
