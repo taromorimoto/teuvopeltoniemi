@@ -9,4 +9,5 @@ publisher: Lundbeck
 categories: Books
 ---
 
-English: Alcohol as the main thing – use, harms, treatment, policy now and in 2014).
+English:
+Alcohol as the main thing – use, harms, treatment, policy now and in 2014

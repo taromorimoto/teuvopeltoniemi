@@ -9,5 +9,6 @@ publisher: A-klinikkasäätiö
 categories: Books
 ---
 
-English: The Long Run - Social scientist and substance abuse treatment opinion leader Dr. Lasse Murto 60 years
+English:
+The Long Run - Social scientist and substance abuse treatment opinion leader Dr. Lasse Murto 60 years
 
