@@ -2,7 +2,7 @@
 layout: post
 title: Pikkuaikuisia - Kirjoituskilpailun kertomuksia ja tutkimustietoa Lasinen lapsuus -hankkeesta
 image: pikkuaikuisia.jpeg
-order: https://www.sosiomedia.fi
+order: www.sosiomedia.fi
 ISBN: 952-9894-76-7
 published: Helsinki 2003
 publisher: A-klinikkasäätiö
