@@ -29,8 +29,11 @@ layout: default
 
   <div class="entry">
     {{ content }}
+    {% if page.publisher %}
+      <p>{{ page.publisher }}.</p>
+    {% endif %}
     {% if page.published %}
-      <p>{{ page.published }}</p>
+      <p>{{ page.published }}.</p>
     {% endif %}
     {% if page.ISBN %}
       <p>ISBN {{ page.ISBN }}</p>

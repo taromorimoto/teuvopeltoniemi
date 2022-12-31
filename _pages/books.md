@@ -15,8 +15,11 @@ title: Books
       </a></h4>
       <div>ISBN: {{ post.ISBN }}</div>
       <p>
+        {% if post.publisher %}
+          <span>{{ post.publisher }}.</span>
+        {% endif %}
         {% if post.published %}
-          <span>{{ post.published }}</span>
+          <span>{{ post.published }}.</span>
         {% endif %}
         {% if post.ISBN %}
           <span>ISBN {{ post.ISBN }}</span>
