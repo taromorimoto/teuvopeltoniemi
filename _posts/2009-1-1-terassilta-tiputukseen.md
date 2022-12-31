@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Terassilta tiputukseen - Puheenvuoroja päihteistä
-image: terassikansi.jpeg
+image: terassikansi.jpg
 order: https://www.sosiomedia.fi
 ISBN: 978-952-5587-55-5
 published: Helsinki 2009
