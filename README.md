@@ -24,7 +24,7 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
     - [1. Fork Reverie to your User Repository](#1-fork-reverie-to-your-user-repository)
     - [2. Customize and view your site](#2-customize-and-view-your-site)
     - [3. Publish your first blog post](#3-publish-your-first-blog-post)
-      - [Tarkemmat ohjeet](#tarkemmat-ohjeet)
+      - [Postausten formaatti ja kansiot](#postausten-formaatti-ja-kansiot)
   - [Using Categories in Reverie](#using-categories-in-reverie)
   - [Pagination](#pagination)
   - [RSS](#rss)
@@ -83,19 +83,15 @@ Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your firs
 
 > You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
 
-#### Tarkemmat ohjeet
+#### Postausten formaatti ja kansiot
 
 Kannattaa käyttää aikaisempia postauksia pohjana uusille postauksille, niin tiedoston formaatti säilyy oikeana.
+
+Postaukset kannattaa jaotella kansioihin, niin kirjat pysyvät erillään muista postauksista.
 
 `/_posts/books` kansioon voi laittaa kaikki Books osion alle tulevat postaukset.
 
 `/_posts/news` kansioon voi laittaa kaikki muut postaukset.
-
-Postausten tägäys määritetään postauksen `categories` muuttujalla. Tässä esimerkki kahden tägin määrittelystä:
-
-```
-categories: [Event, Article]
-```
 
 ## Using Categories in Reverie
 
