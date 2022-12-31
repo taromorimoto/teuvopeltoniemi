@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
-  <br>  
+  <br>
   <p align="center">
     <i>Support my work via <a href="https://paypal.me/AmitMerchant">Paypal</a></i>
     •
@@ -17,18 +17,14 @@ Reverie is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and o
 
 This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https://pages.github.com) (or [Cloudflare Pages](https://pages.cloudflare.com/) if you want to have your repository private) without even setting up a local environment.
 
-![](/images/reverie-demo.png)
-
-|  Responsiveness            |  Search | Categories |
-|---------------------|----------------------|----------------------|
-|![Responsiveness](/images/mobile-demo.png) | ![search](/images/search.png) | ![categories](/images/categories.png) |
-
 # Table of Contents
+- [Table of Contents](#table-of-contents)
   - [Features overview](#features-overview)
   - [Using Reverie on GitHub Pages](#using-reverie-on-github-pages)
     - [1. Fork Reverie to your User Repository](#1-fork-reverie-to-your-user-repository)
     - [2. Customize and view your site](#2-customize-and-view-your-site)
     - [3. Publish your first blog post](#3-publish-your-first-blog-post)
+      - [Tarkemmat ohjeet](#tarkemmat-ohjeet)
   - [Using Categories in Reverie](#using-categories-in-reverie)
   - [Pagination](#pagination)
   - [RSS](#rss)
@@ -83,9 +79,23 @@ Making a change to `_config.yml` (or any file in your repository) will force Git
 
 ### 3. Publish your first blog post
 
-Delete all files from `_posts`directory and create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
+Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
 
 > You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
+
+#### Tarkemmat ohjeet
+
+Kannattaa käyttää aikaisempia postauksia pohjana uusille postauksille, niin tiedoston formaatti säilyy oikeana.
+
+`/_posts/books` kansioon voi laittaa kaikki Books osion alle tulevat postaukset.
+
+`/_posts/news` kansioon voi laittaa kaikki muut postaukset.
+
+Postausten tägäys määritetään postauksen `categories` muuttujalla. Tässä esimerkki kahden tägin määrittelystä:
+
+```
+categories: [Event, Article]
+```
 
 ## Using Categories in Reverie
 
@@ -126,7 +136,7 @@ Reverie is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if
 
 ## The name?
 
-reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><sup>/ˈrɛv(ə)ri/</sup> 
+reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><sup>/ˈrɛv(ə)ri/</sup>
 
 
 ## License
