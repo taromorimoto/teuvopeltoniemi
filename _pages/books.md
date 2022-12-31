@@ -21,9 +21,6 @@ title: Books
         {% if post.published %}
           <span>{{ post.published }}.</span>
         {% endif %}
-        {% if post.ISBN %}
-          <span>ISBN {{ post.ISBN }}</span>
-        {% endif %}
       </p>
       {% if post.order %}
         <a href="{{ post.order }}">Order</a>
