@@ -23,7 +23,7 @@ permalink: /search/
 
 <div id="archives">
   <section id="archive">
-     <h2 style="text-align:left;">Archive</h2>
+     <h2 style="text-align:left;">All news, books, and articles</h2>
      {% for post in site.posts %}
           {% capture month %}{{ post.date | date: '%B %Y' }}{% endcapture %}
           {% capture nmonth %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
