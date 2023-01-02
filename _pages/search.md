@@ -20,6 +20,7 @@ permalink: /search/
     });
 </script>
 
+<hr>
 
 <div id="archives">
   <section id="archive">
