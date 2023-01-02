@@ -6,7 +6,7 @@ permalink: /search/
 
 <div id="search-container">
     <input type="text" id="search-input" placeholder="Search news, books, and articles...">
-    <ul id="results-container"></ul>
+    <div id="results-container"></div>
 </div>
 
 <script src="{{ site.baseurl }}/assets/simple-jekyll-search.min.js" type="text/javascript"></script>
