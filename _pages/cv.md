@@ -18,8 +18,6 @@ He has worked as a university teacher and researcher as well as journalist for t
 
 On European level he is Founder and Honorary President of the European [Prevnet](http://www.prevnet.net/) telematic network, as well as Founding member and ex-President of the European [Encare Network](http://www.encare.info/) on children in substance abuse families.
 
-He organized about popular annual European cooperative seminars.
-
 ### Education
 
 * Kemin lyseo, matriculation examination, 1969
