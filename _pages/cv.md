@@ -2,6 +2,7 @@
 layout: page
 permalink: /cv/
 title: Full detailed CV 
+---
 
 ## Mr. Teuvo Peltoniemi
 
