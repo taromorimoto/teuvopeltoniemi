@@ -2,7 +2,7 @@
 
 layout: page
 title: Teuvo Peltoniemi
-permalink: /about/
+permalink: /bio-english/
 
 ---
 
