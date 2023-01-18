@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nuorten päihdeongelmien arviointi ja hoito (NPK2)
+title: Nuorten päihdeongelmien arviointi ja hoito (NP2)
 image: onpt2.jpg
 order: Out of print, loppuunmyyty
 ISBN: 951-96592-1-8
