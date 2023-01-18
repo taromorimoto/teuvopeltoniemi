@@ -6,6 +6,7 @@ order: http://www.sosiomedia.fi
 ISBN: 978-952-93-1517-8
 published: Helsinki 2013
 publisher: Lundbeck
+authors: Teuvo Peltoniemi
 categories: Books
 ---
 

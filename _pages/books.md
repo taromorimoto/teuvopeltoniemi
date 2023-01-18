@@ -13,17 +13,18 @@ title: Books
       <h4><a href="{{ site.baseurl }}{{ post.url }}">
         {% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}
       </a></h4>
-      <div>ISBN: {{ post.ISBN }}</div>
-      <p>
+      <div>{{ post.authors }}</div>
+      <div>
         {% if post.publisher %}
           <span>{{ post.publisher }}.</span>
         {% endif %}
         {% if post.published %}
           <span>{{ post.published }}.</span>
         {% endif %}
-      </p>
+      </div>
+      <div>ISBN: {{ post.ISBN }}</div>
       {% if post.order %}
-        <a href="{{ post.order }}">Order</a>
+        <p><a href="{{ post.order }}">Order</a></p>
       {% endif %}
     </div>
   </article>
