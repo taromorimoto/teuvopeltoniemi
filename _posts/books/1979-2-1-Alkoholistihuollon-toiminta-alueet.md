@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alkoholistihuollon toiminta-alueet - tutkimus Helsingin PAVI- huoltotoimiston työn sisällöstä.
-image: 
+image: Teuvonlisuri.jpg
 order: 
 ISBN: 
 published: Helsinki 1979
