@@ -6,7 +6,7 @@ order:
 ISBN: 952-9894-76-7
 published: Helsinki 2003
 publisher: A-klinikkasäätiö
-authors: Teuvo Peltoniemi
+authors: Teuvo Peltoniemi & Kirsi Utoslahti
 categories: Books
 ---
 
