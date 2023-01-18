@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Nuorten päihdeongelmien kohtaaminen 1
-image: np1.jpg
+title: Nuorten päihdeongelmien kohtaaminen (NP1)
+image: npt1.jpg
 order: Out of print, loppuunmyyty
 ISBN: 951-96592-2-6
 published: Helsinki 1992 & 2000
