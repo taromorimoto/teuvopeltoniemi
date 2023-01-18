@@ -6,7 +6,7 @@ order: Out of print. Loppuunmyyty.
 ISBN: 951-1-07537-3
 published: Helsinki 1983
 publisher: Otava
-authors: Teuvo Peltoniemi
+authors: Teuvo Peltoniemi & Martti Voipio
 categories: Books
 ---
 English: Alcohol and the Society
