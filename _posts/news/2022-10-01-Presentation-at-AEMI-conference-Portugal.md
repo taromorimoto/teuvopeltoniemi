@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentation at AEMI conference
+title: Presentation at the AEMI conference
 categories: [Events] 
 ---
 "Towards a better world - The Scandinavian Utopian Communities from 1700s until 1900s" at the AEMI conference in Fafe, Portugal 18.9.-1.10.2022.
