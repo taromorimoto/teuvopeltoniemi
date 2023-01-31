@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Appearance on "Tervetuloa, tervemenoa" podcast
+title: Science expert for "Tervetuloa, tervemenoa" podcast
 categories: [Podcasts]
 ---
 
