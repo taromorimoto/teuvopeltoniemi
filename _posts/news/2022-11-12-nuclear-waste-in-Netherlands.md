@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Published an article about nuclear waste in Tiedetoimittajat
+title: Article about nuclear waste in the Netherlands
+categories:  [Article] 
 ---
-”Ydinvoimaa ja ydinjätettä Hollannissa” (Nuclear power and nuclear waste 
-in the Netherlands). Tiedetoimittaja 3/2022.Nov. 9-13, 2022.
+(in Finnish) ”Ydinvoimaa ja ydinjätettä Hollannissa” (Nuclear power and nuclear waste 
+in the Netherlands). Tiedetoimittaja 3/2022.
