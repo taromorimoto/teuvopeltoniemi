@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Participated at the EFIC congress in Valecia and wrote articles about pain and cannabis 
+title: Articles about pain and cannabis  deriving from  the EFIC congress in Valecia 
 categories: [Article] 
 ---
 (in Finnish) "Hyvä, paha ja väheksytty kipu" & "Onko kannabiksesta lääkkeeksi?". Tiedetoimittaja 2/2020.
