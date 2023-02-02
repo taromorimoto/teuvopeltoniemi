@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  Data collection tour at Yale and old utopian communes in Southern USA
+title:  Study tour at Yale & Southern USA
 categories:  [Events]
 ---
-Study tour: Yale university archives, & old US Utopian communitie in Midwest and Southern USA, on Jan 20 to Feb 7, 2020.
+Material collecting tour: Yale university archives, & old US Utopian communities in Midwest and Southern USA, on Jan 20 to Feb 7, 2020.
