@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "Fukushima & media" in Iltalehti & Tiedetoimittaja.
+title: "Fukushima & media" in Iltalehti & Tiedetoimittaja.
 categories:  [Articles] 
 ---
 Articles (in Finnish) "Elämä Fukushiman jälkeen" (Life after Fukushima)” in Iltalehti newspaper on July 10, 2015, and
