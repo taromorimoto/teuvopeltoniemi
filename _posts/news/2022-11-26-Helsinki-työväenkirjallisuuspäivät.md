@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Presentation about Nordic utopian communities (in Finnish)
-categories:  [Events]
+title: Nordic utopian communities 
+categories:  [Presentation]
 ---
-"Suomalaisten ja skandinaavien utopiayhteisöt". Stadin työväenkirjallisuuspäivät, Helsinki, 25-26.11.2022. 
+Presentation (in Finnish) "Suomalaisten ja skandinaavien utopiayhteisöt". Stadin työväenkirjallisuuspäivät, Helsinki, 25-26.11.2022. 
