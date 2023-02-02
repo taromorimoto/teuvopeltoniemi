@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  State of Finland Award for Life Work on "exemplary and unconventional public information work".
+title:  Prestigious State of Finland Life Work Award to Peltoniemi in 2011
 categories:  [Events] 
 ---
 Ministry of Education and Culture awarded on October 6, 2011 Mr. Peltoniemi the "State Life Work Award on Public Information" for "exemplary and unconventional public information work".
