@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentations about the Finnish utopian communities in Fuengirola, Spain
-categories: [Events]
+title: Finnish utopian communities, Fuengirola, Spain
+categories: [Presentation event]
 ---
-”Suomalaisten utopiasiirtolaisuus ja kapteeni Höök-video. Kulttuuriklubi Kaleva, Kukko-ravintola, Fuengirola, Espanja  30.1.2022.
+Presentation event about the ”Suomalaisten utopiasiirtolaisuus & kapteeni Höök-video. Kulttuuriklubi Kaleva, Kukko-ravintola, Fuengirola, Espanja  30.1.2022.
