@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Presentation about Fukushima catastrophe in Fuengirola, Spain
-categories:  [Events] 
+title: Fukushima Catastrophe, Fuengirola, Spain
+categories:  [Presentation event] 
 ---
-"The Fukushima catastrophe, evacuations, and the future of nuclear power" Kaleva Association, Fuengirola, Spain, Dec 11, 2019.
+Presentation about "The Fukushima catastrophe, evacuations, and the future of nuclear power" Kaleva Culture Association, Fuengirola, Spain, Dec 11, 2019.
