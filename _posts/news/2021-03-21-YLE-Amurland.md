@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Science adviser for a YLE Broadcasting article on Amurland
-categories:  [Article] 
+title: Science adviser for a YLE on Amurland
+categories:  [Interview article] 
 ---
-(in Finnish & Russian): Jormanainen, Heli: “During the famine years, Finns went to Amurland to seek happiness, but reality broke dreams - the memory of the free skipper Höök still lives in Vladivostok”.
+Science adviser to Finnish Broadcasting about Amurland utopia article (in Finnish & Russian): by Jormanainen, Heli: “During the famine years, Finns went to Amurland to seek happiness, but reality broke dreams - the memory of the free skipper Höök still lives in Vladivostok”.
