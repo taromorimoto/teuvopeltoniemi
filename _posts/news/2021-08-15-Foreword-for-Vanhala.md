@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Foreword for Harri Vanhala's Kylväjä-book
-categories: [Events]
+categories: [Article]
 ---
-(in Finnish) "Kylväjä suomalaisena utopiayhteisönä", "Kommuuna Kylväjä - Amerikansuomalainen kolhoosi Donin aroilla". Migration Institute of Finland 2021
+Forword Article (in Finnish) "Kylväjä suomalaisena utopiayhteisönä", for Harri Vanhala's book: "Kommuuna Kylväjä - Amerikansuomalainen kolhoosi Donin aroilla". Migration Institute of Finland 2021
