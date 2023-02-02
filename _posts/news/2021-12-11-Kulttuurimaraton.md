@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentation about Finnish Utopias and Captain Höök
-categories: [Events]
+title: Finnish Utopias and Captain Höök, Espoo, Culture Maraton
+categories: [Presentation event]
 ---
-(in Finnish with Russian interpretation) "Kapteeni Höök ja suomalainen utopiasiirtolaisuus Amurinmaalla", Kulttuurimaraton. Espoon kirjasto 11.12.2021. 
+Presentation (in Finnish with Russian interpretation)  about  "suomalainen utopiasiirtolaisuus Amurinmaalla" & "Kapteeni Höök video, Kulttuurimaraton. Espoon kirjasto 11.12.2021. 
