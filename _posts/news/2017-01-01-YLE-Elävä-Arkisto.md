@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  Peltoniemi's Utopian radio documents at YLE "Living archive"
+title:  Peltoniemi's Utopian documents at YLE "Living archive"
 categories:  [Radio] 
 ---
 The "Living archive" of the Finnish Broadcasting Company made available Peltoniemi's radio documents about Finnish utopian communities (from 1981-82).
