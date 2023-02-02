@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentation about the Finnish utopian communities in Porvoo
-categories: [Events]
+title: Presentation about Finnish utopian communities, Porvoo library
+categories: [Presentation event]
 ---
-(in Finnish) "Suomalaisia utopiayhteisöjä kuudella mantereella" ja Höök-videon näyttö, Porvoon kirjasto 16.5.2022.
+Presentation (in Finnish) "Suomalaisia utopiayhteisöjä kuudella mantereella" and  Höök-video screening, Porvoon kirjasto 16.5.2022.
