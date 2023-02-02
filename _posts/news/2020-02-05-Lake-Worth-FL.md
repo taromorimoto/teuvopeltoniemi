@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  Presentation about American Finnish Utopian communities in Lake Worth
-categories:  [Events] 
+title:  American Finnish Utopian communities, Lake Worth, FL
+categories:  [Presentation event] 
 ---
-"Finnish Utopian settlements in USA & Canada. Finnish Church in Lake Worth. Feb 5, 2020.
+Presentation about "Finnish Utopian settlements in USA & Canada. Finnish Church in Lake Worth. Feb 5, 2020.
