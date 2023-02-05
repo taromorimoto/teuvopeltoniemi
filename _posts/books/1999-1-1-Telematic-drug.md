@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Telematic drug & alcohol prevention: Guidelines and experiences from Prevnet Euro
+title: "Telematic drug & alcohol prevention: Guidelines and experiences from Prevnet Euro"
 image: prevnet.jpg
 order: Out of print, loppuunmyyty
 ISBN: 952-9894-49-X

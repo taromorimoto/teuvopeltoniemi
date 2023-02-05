@@ -429,6 +429,12 @@ nav {
 .posts > h1 {
   margin-bottom: 40px;
 }
+.posts h3 {
+  margin-bottom: 0;
+}
+.posts .entry p {
+  margin: 0;
+}
 
 .posts>.post {
   padding-bottom: 2em;
