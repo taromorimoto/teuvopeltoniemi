@@ -9,7 +9,7 @@ layout: default
   {% for post in site.posts %}
     <!-- Skip posts "Books" category -->
     {% if post.categories contains 'Books' %}
-      continue
+      {% continue %}
     {% endif %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
