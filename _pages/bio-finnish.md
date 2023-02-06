@@ -10,6 +10,8 @@ permalink: /bio-finnish/
 
 Tietokirjailija, tiedetoimittaja, tutkija, valt. lis. Teuvo Peltoniemi on mediatoimisto Sosiomedian oy:n päätoimittaja. Hän asuu Helsingissä ja Fuengirolassa Espanjassa.
 
+Journalisti Teuvo Peltoniemen teemoina ovat varsinkin energia- ja ympäristökysymykset, siirtolaisuus ja uusi teknologia. 
+
 Aikaisemmin hän toimi parikymmentä vuotta A-klinikkasäätiössä mm. viestintäjohtajana, sekä Tiimi-lehden ja Päihdelinkin päätoimittajana ja  median paljon käyttämä asiantuntijana. Sitä ennen hän työskenteli journalistina radiossa ja televisiossa sekä tutkijana mm. Tampereen yliopistossa, Oikeuspoliittisessa tutkimuslaitoksessa ja Alkoholitutkimussäätiössä.
 
 Peltoniemen tärkeimmät teemat tutkijana ovat päihteet, perheväkivalta, lapsityö, siirtolaisuus ja liikenne. "Kohti parempaa maailmaa" on suomalaisen utopiasiirtolaisuuden perusteos. Hän on myötävaikuttanut mm. lasten ruumiillisen kurituksen, pahoinpitelyn ja seksuaalisen hyväksikäytön ehkäisyyn samoin kuin päihdehuollon, turvakotien, poliisin ja sosiaalityön perheväkivallan hoitoon. Viestinnässä hän on kehittänyt päihdevalistusta, päihdetyön mobiili- ja verkkopalveluita sekä päihdeperheiden lasten ongelmien ennaltaehkäisyä. Hänen perustamiaan ja edelleen jatkuvia palveluita ovat mm. Päihdelinkki, apua.info ja Lasinen lapsuus.
