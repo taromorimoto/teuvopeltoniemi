@@ -10,13 +10,13 @@ permalink: /bio-finnish/
 
 Tietokirjailija, tiedetoimittaja, tutkija, valt. lis. Teuvo Peltoniemi on mediatoimisto Sosiomedian oy:n päätoimittaja. Hän asuu Helsingissä ja Fuengirolassa Espanjassa.
 
-Journalisti Teuvo Peltoniemen teemoina ovat varsinkin energia- ja ympäristökysymykset, siirtolaisuus ja uusi teknologia. 
+Teuvo Peltoniemen nykyisinä journalistisina teemoina ovat varsinkin energia- ja ympäristökysymykset, siirtolaisuus ja uusi teknologia. 
 
 Aikaisemmin hän toimi parikymmentä vuotta A-klinikkasäätiössä mm. viestintäjohtajana, sekä Tiimi-lehden ja Päihdelinkin päätoimittajana ja  median paljon käyttämä asiantuntijana. Sitä ennen hän työskenteli journalistina radiossa ja televisiossa sekä tutkijana mm. Tampereen yliopistossa, Oikeuspoliittisessa tutkimuslaitoksessa ja Alkoholitutkimussäätiössä.
 
 Peltoniemen tärkeimmät teemat tutkijana ovat päihteet, perheväkivalta, lapsityö, siirtolaisuus ja liikenne. "Kohti parempaa maailmaa" on suomalaisen utopiasiirtolaisuuden perusteos. Hän on myötävaikuttanut mm. lasten ruumiillisen kurituksen, pahoinpitelyn ja seksuaalisen hyväksikäytön ehkäisyyn samoin kuin päihdehuollon, turvakotien, poliisin ja sosiaalityön perheväkivallan hoitoon. Viestinnässä hän on kehittänyt päihdevalistusta, päihdetyön mobiili- ja verkkopalveluita sekä päihdeperheiden lasten ongelmien ennaltaehkäisyä. Hänen perustamiaan ja edelleen jatkuvia palveluita ovat mm. Päihdelinkki, apua.info ja Lasinen lapsuus.
 
-Teuvo Peltoniemi on kirjoittanut, toimittanut tai kääntänyt 18 [kirjaa]({{ site.baseurl }}/books), jotka käsittelevät alkoholia, huumeita, perheväkivaltaa, liikennettä, siirtolaisuutta ja tietoyhteiskuntaa. Hän on tuottanut lähes 500 yleisluonteista ja tieteellistä artikkelia tai esitelmää kotimaisiin ja kansainvälisiin julkaisuihin ja konferensseihin. Helsingin Tietovideon kautta hän on toimittanut suomeksi noin 150 sosiaali- ja terveysalan valistus- ja koulutusvideoa. Hän on järjestänyt noin 40 euroopalaista yhteisseminaaria toimittajille, tutkijoille, virkamiehille ja asiantuntijoille. 
+Teuvo Peltoniemi on kirjoittanut, toimittanut tai kääntänyt lähes 20 kirjaa, jotka käsittelevät alkoholia, huumeita, perheväkivaltaa, liikennettä, siirtolaisuutta ja tietoyhteiskuntaa. Hän on tuottanut lähes 500 yleisluonteista ja tieteellistä artikkelia tai esitelmää kotimaisiin ja kansainvälisiin julkaisuihin ja konferensseihin. Helsingin Tietovideon kautta hän on toimittanut suomeksi noin 150 sosiaali- ja terveysalan valistus- ja koulutusvideoa. Hän on järjestänyt noin 40 euroopalaista yhteisseminaaria toimittajille, tutkijoille, virkamiehille ja asiantuntijoille. 
 
 Teuvo Peltoniemi on EU:n päihdetelematia-aiheisen [Prevnet Networkin](http://www.prevnet.net) perustaja ja kunniapuheenjohtaja sekä Lapsi alkoholiperheessä -aiheisen [Encare Networkin](http://www.encare.info/) perustajajäsen ja ex-presidentti. Kotimaassa ja Espanjassa hän on ollut hallituksen jäsen useissa alansa toimittaja- ja teemajärjestöissä.
 
