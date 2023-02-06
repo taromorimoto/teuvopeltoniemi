@@ -8,7 +8,9 @@ permalink: /bio-english/
 
 ![](https://user-images.githubusercontent.com/1070946/203375342-2d6734c2-d2ba-4170-b5a2-01b768ea4bc1.jpeg)
 
-Mr. Teuvo Peltoniemi, Director of Sosiomedia Oy, is a science writer and journalist, researcher and trainer specialised on social and health topics, emigration, environment, medicine and technological issues. He has written, edited or translated 18 [books]({{ site.baseurl }}/books) on alcohol, drug policy, family violence, utopian emigration, traffic and telematics. He regularly writes general and scientific articles and presents papers at national and international conferences so that number of titles in his CV is over 500. He has produced into Finnish about 150 international prevention and training video programs on health and social topics. 
+Teuvo Peltoniemi's recent journalistic themes are especially energy and environmental issues, migration and new technology.
+
+He is Director of Sosiomedia Oy, a science writer and journalist, researcher and trainer specialised on social and health topics, emigration, environment, medicine and technological issues. He has written, edited or translated nearly 20 books on alcohol, drug policy, family violence, utopian emigration, traffic and telematics. He regularly writes general and scientific articles and presents papers at national and international conferences so that number of titles in his CV is over 500. He has produced into Finnish about 150 international prevention and training video programs on health and social topics. 
 
 Mr. Peltoniemi has MA and Lic. Soc. Sc. degrees in sociology, social policy and mass communication from the Universities of Tampere and Helsinki. He shares his time between Helsinki, Finland and Fuengirola, Spain.
 
