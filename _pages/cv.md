@@ -6,14 +6,16 @@ title: Full detailed CV
 
 ## Mr. Teuvo Peltoniemi
 
-Updated Jan. 4, 2023
+Updated Jan. 6, 2023
 
 Contact: [www.teuvopeltoniemi.net](www.teuvopeltoniemi.net), [www.facebook.com/teuvo.peltoniemi](www.facebook.com/teuvo.peltoniemi)
 
 
 ### Summary CV
 
-Mr. Teuvo Peltoniemi, Director of Sosiomedia Oy, is a science writer and journalist, researcher and trainer specialised on social and health topics, emigration, environment, medicine and technological issues. He has written, edited or translated 18 books on alcohol, drug policy, family violence, utopian emigration, traffic and telematics. He was the first to study and publish books on family violence, child abuse and sexual abuse of children in Finland. He regularly writes general and scientific articles and presents papers at national and international conferences so that number of titles in his CV is over 500. He has organized about 40 joint European seminars for Finnish and European journalists and professionals, and produced into Finnish about 150 international prevention and training video programs on health and social topics.
+Mr. Teuvo Peltoniemi, Director of Sosiomedia Oy, is a science writer and journalist, researcher and trainer. His most recent journalistic themes are energy and environmental issues, migration and the new technology.  
+
+During his career he has published on social and health topics, emigration, environment, medicine and technological issues. He has written, edited or translated nearly 20 books on alcohol, drug policy, family violence, utopian emigration, traffic and telematics. He was the first to study and publish books on family violence, child abuse and sexual abuse of children in Finland. He regularly writes general and scientific articles and presents papers at national and international conferences so that number of titles in his CV is over 500. He has organized about 40 joint European seminars for Finnish and European journalists and professionals, and produced into Finnish about 150 international prevention and training video programs on health and social topics.
 
 He has worked as a university teacher and researcher as well as journalist for the Finnish radio and television, and video companies, and developed domestic and European prevention projects.Mr. Peltoniemi has MA and Lic. Soc. Sc. degrees in sociology, social policy and mass communication from the Universities of Tampere and Helsinki. He shares his time between Helsinki, Finland and Fuengirola, Spain.
 
