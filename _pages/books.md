@@ -13,6 +13,7 @@ title: Books
       <h4><a href="{{ site.baseurl }}{{ post.url }}">
         {% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}
       </a></h4>
+      <div>English: {{ post.title_en }}</div>
       <div>{{ post.authors }}</div>
       <div>
         {% if post.publisher %}
