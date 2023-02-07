@@ -14,7 +14,7 @@ title: Books
         {% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}
       </a></h4>
       {% if post.title_en %}
-        <div>English: {{ post.title_en }}</div>
+        <div>In English: {{ post.title_en }}</div>
       {% endif %}
       <div>{{ post.authors }}</div>
       <div>
