@@ -7,6 +7,6 @@ order:
 ISBN: 978-952-93-1517-8
 published: Helsinki 2013
 publisher: Lundbeck
-authors: Teuvo Peltoniemi (toimittanut)
+authors: Teuvo Peltoniemi (toim./ed.)
 categories: Books
 ---
