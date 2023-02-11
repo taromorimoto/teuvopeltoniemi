@@ -2,7 +2,7 @@
 layout: post
 title: Nuoret ja päihteet.  Sosiaalialkohologian opetusmoniste 2/1977. (110 s.)
 title_en:  
-image: 
+image: Empty image.jpg
 ISBN: 
 published: Tampere 1977 
 publisher: Tampereen yliopisto
