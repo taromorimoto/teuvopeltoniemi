@@ -2,7 +2,7 @@
 layout: post
 title:  Alkoholiartikkeleita. Sosiaalialkohologian opetusmoniste 3/1977. (223 s.)
 title_en:  
-image: 
+image: Empty image.jpg
 ISBN: 
 published: Tampere 1977
 publisher:  Tampereen yliopisto
