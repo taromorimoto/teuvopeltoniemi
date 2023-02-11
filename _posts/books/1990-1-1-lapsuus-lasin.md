@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lapsuus lasin varjossa - lapsi alkoholiperheessa
-title_en: Children of Alcoholics by 
+title_en: Children of Alcoholics
 image: ackerman.jpg
 order: 
 ISBN: 951-37-0357-6
