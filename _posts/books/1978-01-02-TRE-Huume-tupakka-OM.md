@@ -2,7 +2,7 @@
 layout: post
 title: Huume- ja tupakkamoniste.  Sosiaalialkohologian opetusmoniste 4/1978. (100 s.)
 title_en:  
-image: 
+image: Empty image.jpg
 ISBN: 
 published: Tampere 1974 
 publisher: 
