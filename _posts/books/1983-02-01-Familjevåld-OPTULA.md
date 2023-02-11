@@ -8,3 +8,4 @@ published: Helsingfors 1983
 publisher: Rättspolitiska forskningsinstitutet.
 authors: Teuvo Peltoniemi
 categories: Research report
+---
