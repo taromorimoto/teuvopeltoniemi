@@ -1,6 +1,6 @@
 ---
 layout: post
-title:.  Alkoholiartikkeleita. Sosiaalialkohologian opetusmoniste 3/1977. (223 s.)
+title:  Alkoholiartikkeleita. Sosiaalialkohologian opetusmoniste 3/1977. (223 s.)
 title_en:  
 image: 
 ISBN: 
