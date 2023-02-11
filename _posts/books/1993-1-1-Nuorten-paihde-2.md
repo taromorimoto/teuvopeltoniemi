@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nuorten päihdeongelmien arviointi ja hoito (NP2)
-title_en: ARF Youth and drugs 4-5
+title_en: ARF Youth and drugs 4 & 5
 image: onpt2.jpg
 order:
 ISBN: 951-96592-1-8
