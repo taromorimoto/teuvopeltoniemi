@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pikkuaikuisia - Kirjoituskilpailun kertomuksia ja tutkimustietoa Lasinen lapsuus -hankkeesta
+title_en: "Little adult" - Stories from a writing competition and research results of the Fragile Childhood - children in substance abuse families project
 image: pikkuaikuisia.jpeg
 order:
 ISBN: 952-9894-76-7
@@ -10,5 +11,5 @@ authors: Teuvo Peltoniemi & Kirsi Utoslahti
 categories: Books
 ---
 
-English:
-Little adults - Stories from a writing competition and research results of the Fragile Childhood - children in substance abuse families project
+
+
