@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kahta mieltä kannabiksesta
-title_en: English: Two opinions about cannabis - A debate book on legalizing of cannabis.
+title_en: Two opinions about cannabis - A debate book on legalizing of cannabis.
 image: kahtamielta.jpg
 ISBN: 952-9894-26-0
 published: Helsinki 1998
