@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alkoholistihuollon toiminta-alueet - tutkimus Helsingin PAVI- huoltotoimiston työn sisällöstä 
-title_en: Areas of operation of alcohol care - a study of the content of the work of the PAVI addiction care office in Helsinki - University of Helsinki, 
+title_en: Areas of operation of alcohol care - a study of the content of the work of the PAVI addiction care office in Helsinki
 image: Teuvonlisuri.jpg
 order:
 ISBN:
