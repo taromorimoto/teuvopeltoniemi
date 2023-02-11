@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Kohti parempaa maailmaa näyttely, video ja näyttelykirja
+title_en: Towards a Better World - exhibition book, exhibition and video on the Finnish Utopian Emigration
 image: kpmnayttely.jpg
-order: Out of print. Loppuunmyyty.
+order: 
 ISBN:
 published: Helsinki 1984
 publisher: Kristillinen kulttuuriliitto & Utopiasiirtolaisuuden arkisto & Sosiomedia Oy
 authors: Teuvo Peltoniemi
 categories: Books
 ---
-English: Author of the exhibition book, exhibition and video on the Finnish Utopian Emigration. (in Finnish/Swedish/ English/German)
+
 
