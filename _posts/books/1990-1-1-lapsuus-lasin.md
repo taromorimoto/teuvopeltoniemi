@@ -7,7 +7,7 @@ order:
 ISBN: 951-37-0357-6
 published: Helsinki 1990 & 1992
 publisher: VAPK-kustannus
-authors: Translator and editor of the Finnish version
+authors:  Translated and adapted to Finnish alcohol care system by Teuvo Peltoniemi
 categories: Books
 ---
  
