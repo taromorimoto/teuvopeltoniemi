@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Alkoholi ja yhteiskunta
+title_en: Alcohol and the Society
 image: ayetukansi.jpg
-order: Out of print. Loppuunmyyty.
+order:
 ISBN: 951-1-07537-3
 published: Helsinki 1983
 publisher: Otava
-authors: Teuvo Peltoniemi & Martti Voipio
+authors: Teuvo Peltoniemi & Martti Voipio (toim./ed.)
 categories: Books
 ---
-English: Alcohol and the Society
+
