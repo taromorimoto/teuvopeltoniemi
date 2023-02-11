@@ -2,7 +2,7 @@
 layout: post
 title: Perheväkivalta Suomessa ja Ruotsissa - yleisyys ja asenteet. Oikeuspoliittisen tutkimuslaitoksen julkaisuja 54, 1982. (38 s.)
 title_en:  
-image: 
+image: Empty image.jpg
 ISBN: 
 published:  Helsinki1982 
 publisher:  Oikeuspoliittinen tutkimuslaitos
