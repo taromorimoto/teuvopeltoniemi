@@ -2,7 +2,7 @@
 layout: post
 title: Perheväkivalta ja sen käsittelyjärjestelmät - kirjallisuustutkimus ja tutkimussuunnitelma.  (84 s.)
 title_en:  
-image: 
+image: Empty image.jpg
 ISBN: 
 published: Helsinki 1980 
 publisher: Ensi Kotien Liitto
