@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Terassilta tiputukseen - Puheenvuoroja päihteistä
+title_en: (Author of a collection of essays on alcohol, drugs and other addictions:
+From a terrace pub to drip in hospital - essays about addictions)
 image: terassikansi.jpg
 order: 
 ISBN: 978-952-5587-55-5
@@ -10,6 +12,3 @@ authors: Teuvo Peltoniemi
 categories: Books
 ---
 
-(English:
-Author of a collection of essays on alcohol, drugs and other addictions:
-From a terrace pub to hospital drip - writings about addictions)
