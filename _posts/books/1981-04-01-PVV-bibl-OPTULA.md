@@ -7,5 +7,5 @@ ISBN:
 published: Helsinki 1981 
 publisher: Oikeuspoliittinen tutkimuslaitos & Lastensuojelun keskusliitto
 authors: Teuvo Peltoniemi & Pirjo Honkavaara
-categories: Research report
+categories: Books
 ---
