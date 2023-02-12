@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Katsaus nuorten päihteiden käyttöä koskeviin tutkimuksiin (61 s.)
-title_en: Text book for university students
+title_en: Text book on alcohol topic for university students
 image: Empty image.jpg
 ISBN: 
 published: Tampere 1974  
