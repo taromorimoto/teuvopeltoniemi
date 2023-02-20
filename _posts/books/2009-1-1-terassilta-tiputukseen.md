@@ -7,7 +7,7 @@ order:
 ISBN: 978-952-5587-55-5
 published: Helsinki 2009
 publisher: A-klinikkasäätiö
-authors: Teuvo Peltoniemi
+authors: Teuvo Peltoniemi (author)
 categories: Books
 ---
 
