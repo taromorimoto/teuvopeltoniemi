@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lapsuus lasin varjossa - lapsi alkoholiperheessa
+title: Lapsuus lasin varjossa - lapsi alkoholiperheessa (135s.)
 title_en: Children of Alcoholics
 image: ackerman.jpg
 order: 
