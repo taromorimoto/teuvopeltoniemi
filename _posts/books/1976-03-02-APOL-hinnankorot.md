@@ -6,6 +6,6 @@ image: Empty image.jpg
 ISBN: 
 published:  Helsinki 1976 
 publisher: Alkoholipoliittinen tutkimuslaitos
-authors: Teuvo Peltoniemi
+authors: Teuvo Peltoniemi (author)
 categories: Books
 ---
