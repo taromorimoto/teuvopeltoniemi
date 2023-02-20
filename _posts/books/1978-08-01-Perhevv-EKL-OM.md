@@ -6,6 +6,6 @@ image: Empty image.jpg
 ISBN: 
 published: Helsinki 1980 
 publisher: Ensi Kotien Liitto
-authors: (author) Teuvo Peltoniemi
+authors:  Teuvo Peltoniemi (author)
 categories: Books
 ---
