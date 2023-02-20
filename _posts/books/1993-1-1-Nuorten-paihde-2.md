@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nuorten päihdeongelmien arviointi ja hoito (NP2)
+title: Nuorten päihdeongelmien arviointi ja hoito (NP2, 127s.)
 title_en: ARF Youth and drugs 4 & 5
 image: onpt2.jpg
 order:
