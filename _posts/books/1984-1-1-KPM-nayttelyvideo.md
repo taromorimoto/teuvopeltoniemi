@@ -6,7 +6,7 @@ image: kpmnayttely.jpg
 order: 
 published: Helsinki 1984
 publisher: Kristillinen kulttuuriliitto & Utopiasiirtolaisuuden arkisto & Sosiomedia Oy
-authors: Teuvo Peltoniemi
+authors: Teuvo Peltoniemi (author)
 categories: Books
 ---
 
