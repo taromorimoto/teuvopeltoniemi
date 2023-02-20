@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Telematic drug & alcohol prevention - Guidelines and experiences from Prevnet Euro
+title: Telematic drug & alcohol prevention - Guidelines and experiences from Prevnet Euro (112s.9
 title_en: Alkoholi- ja huumeongelmien ehkäisy netissä - Prevnet Euro EU-projektin menetelmiä ja kokemuksia
 image: prevnet.jpg
 order:
