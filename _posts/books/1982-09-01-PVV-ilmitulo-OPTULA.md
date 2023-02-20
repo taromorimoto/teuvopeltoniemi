@@ -6,6 +6,6 @@ image: Empty image.jpg
 ISBN: 951-704-077-6
 published:  Helsinki1982 
 publisher:  Oikeuspoliittinen tutkimuslaitos
-authors: Teuvo Peltoniemi
+authors: Teuvo Peltoniemi (author)
 categories: Books
 ---
