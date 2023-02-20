@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Telematic drug & alcohol prevention - Guidelines and experiences from Prevnet Euro (112s.)
-title_en: Alkoholi- ja huumeongelmien ehkäisy netissä - Prevnet Euro EU-projektin menetelmiä ja kokemuksia
+title_en: (in Finnish) Alkoholi- ja huumeongelmien ehkäisy netissä - Prevnet Euro EU-projektin menetelmiä ja kokemuksia
 image: prevnet.jpg
 order:
 ISBN: 952-9894-49-X
