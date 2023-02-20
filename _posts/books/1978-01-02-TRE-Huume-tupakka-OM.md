@@ -6,6 +6,6 @@ image: Empty image.jpg
 ISBN: 951-44-0712-1
 published: Tampere 1974 
 publisher: 
-authors: Teuvo Peltoniemi (toim.)
+authors: Teuvo Peltoniemi (toim. /ed.)
 categories: Books
 ---
