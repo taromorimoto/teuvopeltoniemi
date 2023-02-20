@@ -7,7 +7,7 @@ order:
 ISBN: 951-1-10401-2
 published: Keuruu/Helsinki  1988
 publisher: Otava
-authors: Teuvo Peltoniemi
+authors: Teuvo Peltoniemi (Author)
 categories: Books
 --- 
 
