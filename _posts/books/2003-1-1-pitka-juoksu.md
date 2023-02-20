@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pitkä juoksu - Sosiaalipoliitikko ja päihdehuollon vaikuttaja Lasse Murto 60 vuotta
+title: Pitkä juoksu - Sosiaalipoliitikko ja päihdehuollon vaikuttaja Lasse Murto 60 vuotta (181s.)
 title_en: The Long Run - Social scientist and substance abuse treatment opinion leader Dr. Lasse Murto 60 years
 image: book-pitkajuoksu.jpeg
 order:
