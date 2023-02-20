@@ -5,7 +5,7 @@ image: pvv.jpg
 order: 
 ISBN: 951-1-07787-2
 published: 1984
-publisher: Otava
+publisher: Otava Keuruu/Helsinki
 authors: Teuvo Peltoniemi (author)
 categories: Books
 ---
