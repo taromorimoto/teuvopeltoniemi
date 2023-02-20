@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nuorten päihdeongelmien kohtaaminen (NP1)
+title: Nuorten päihdeongelmien kohtaaminen (NP1, 102s.)
 title_en: ARF Youth and drugs 1 & 3
 image: npt1.jpg
 order: 
