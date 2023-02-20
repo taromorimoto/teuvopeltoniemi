@@ -6,6 +6,6 @@ image: Empty image.jpg
 ISBN: 
 published: Tampere 1974  
 publisher: Tampereen kaupungin raittiuslautakunta
-authors: Teuvo Peltoniemi
+authors: Teuvo Peltoniemi (toim./ed.)
 categories: Books
 ---
