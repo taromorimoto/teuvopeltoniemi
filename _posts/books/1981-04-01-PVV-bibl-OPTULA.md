@@ -6,6 +6,6 @@ image: Empty image.jpg
 ISBN: 
 published: Helsinki 1981 
 publisher: Oikeuspoliittinen tutkimuslaitos & Lastensuojelun keskusliitto
-authors: Teuvo Peltoniemi & Pirjo Honkavaara
+authors: (authors) Teuvo Peltoniemi & Pirjo Honkavaara
 categories: Books
 ---
