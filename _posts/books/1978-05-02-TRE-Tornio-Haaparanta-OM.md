@@ -6,6 +6,6 @@ image: Empty image.jpg
 ISBN: 951-44-0714-8
 published: Tampere 1978 
 publisher: Tampereen yliopisto
-authors: Teuvo Peltoniemi
+authors: Teuvo Peltoniemi (toim./ed.)
 categories: Books
 ---
