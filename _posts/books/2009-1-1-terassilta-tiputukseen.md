@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terassilta tiputukseen - Puheenvuoroja päihteistä
+title: Terassilta tiputukseen - Puheenvuoroja päihteistä (191s.)
 title_en: From a terrace pub to hospital drip - essays on alcohol, drugs and other addictions 
 image: terassikansi.jpg
 order: 
