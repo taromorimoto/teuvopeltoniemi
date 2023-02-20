@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pääasiana alkoholi – käyttö, haitat, hoito, politiikka nyt ja 2040
+title: Pääasiana alkoholi – käyttö, haitat, hoito, politiikka nyt ja 2040 (237s.)
 title_en: Alcohol as the main thing – use, harms, treatment, policy now and in 2014
 image: book-940.jpeg
 order:
