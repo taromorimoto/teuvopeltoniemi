@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pikkuaikuisia - Kirjoituskilpailun kertomuksia ja tutkimustietoa Lasinen lapsuus -hankkeesta
+title: Pikkuaikuisia - Kirjoituskilpailun kertomuksia ja tutkimustietoa Lasinen lapsuus -hankkeesta (196s.)
 title_en: Little adults - Stories from a writing competition and study results of the Fragile Childhood project
 image: pikkuaikuisia.jpeg
 order:
