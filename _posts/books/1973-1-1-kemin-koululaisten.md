@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kemin koululaisten päihteiden käyttö 1968-1972 (266 s. + liittee 66 s.9
+title: Kemin koululaisten päihteiden käyttö 1968-1972 (266 s. + liitteet 66 s.)
 title_en: Use of substances among in the schools in Kemi 1968-1972
 image: kem.jpg
 order: 
