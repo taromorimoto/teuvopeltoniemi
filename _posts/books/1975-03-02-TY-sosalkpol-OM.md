@@ -6,6 +6,6 @@ image: Empty image.jpg
 ISBN: 
 published: Tampere 1975 
 publisher: Tampereen yliopisto
-authors: Teuvo Peltoniemi
+authors: Teuvo Peltoniemi (toim./ed.)
 categories: Books
 ---
