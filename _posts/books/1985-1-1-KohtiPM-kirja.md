@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kohti parempaa maailmaa - suomalaiset ihanneyhteisöt 1700-luvulta nykypäivään
+title: Kohti parempaa maailmaa - suomalaiset ihanneyhteisöt 1700-luvulta nykypäivään (240s)
 title_en: Towards a better world - Finnish Utopian Communities from the 1700's till today
 image: kpmetukansi.jpg
 order: 
