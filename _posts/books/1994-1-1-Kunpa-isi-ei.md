@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kunpa isi ei joisi - päihdeperheen lapsen työkirja
+title: Kunpa isi ei joisi - päihdeperheen lapsen työkirja (97s.)
 title_en: My dad loves me, my dad has a disease 
 image: black.jpg
 order:
