@@ -6,7 +6,7 @@ image: kahtamielta.jpg
 ISBN: 952-9894-26-0
 published: Helsinki 1998
 publisher: A-klinikkasäätiö
-authors: Teuvo Peltoniemi & Timo Larmela
+authors: Teuvo Peltoniemi & Timo Larmela (authors)
 categories: Books
 ---
 
