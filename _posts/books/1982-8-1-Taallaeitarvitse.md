@@ -6,6 +6,6 @@ image: taalla-ei.jpg
 ISBN: 951-9227-00-8
 published: Helsinki 1982
 publisher: Ensi Kotien Liitto
-authors: (authors) Teuvo Peltoniemi & Riitta Leskinen & Tuija Mäkinen
+authors: Teuvo Peltoniemi & Riitta Leskinen & Tuija Mäkinen (authors)
 categories: Books
 ---
