@@ -6,7 +6,7 @@ order:
 ISBN: 951-1-07787-2
 published: 1984
 publisher: Otava
-authors: Teuvo Peltoniemi
+authors: Teuvo Peltoniemi (author)
 categories: Books
 ---
 
