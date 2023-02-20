@@ -5,7 +5,7 @@ title_en: Areas of operation of alcohol care - a study of the content of the wor
 image: Teuvonlisuri.jpg
 published: Helsinki 1979
 publisher: Helsingin yliopisto, University of Helsinki - Sosiologian lisensiaattitutkimus, Licenciate theses in sosiology
-authors: Teuvo Peltoniemi
+authors: Teuvo Peltoniemi (author)
 categories: Books
 ---
 
