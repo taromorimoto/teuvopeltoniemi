@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yhteinen salaisuus - seksuaalisesti hyväksikäytetyt lapset kertovat
+title: Yhteinen salaisuus - seksuaalisesti hyväksikäytetyt lapset kertovat (215s.)
 title_en: The common secret - told by sexually abused children
 image: yhteinensalaisuus.jpg
 order: 
