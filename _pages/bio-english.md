@@ -20,6 +20,6 @@ Mr Peltoniemi is an active member in journalist, author and research association
 
 Mr. Peltoniemi has received a number of Finnish and EU awards. The Ministry of Education and Culture awarded him in 2011 the _"State Life Work Award on Public Information". In 2006 he got the _"Special Prime Minister,s IT Award"_ , He was the _"Press Officer of the Year"_ in 2006, and the _"Science Journalist of the Year"_ in 2007.
 
-Most recent personal stories about Mr Peltoniemi were published (in Finnish) e.g. in [Suomalaisia etsimässä](https://nakoislehti.hs.fi/7ac11991-7cb4-4ac5-b364-a1c4f75cb3a7/10) Helsingin Sanomien kuukausiliite 3.2.2018, [Kelan Elämässä](https://elamassa.fi/elakkeella/muutto-elakkeella-espanjaan-sosiaaliturva-ulkomailla) 19.4.2017, Suomalainen Espanjassa 18.2.2014, YLE Radio Finland [Taustapeili](http://yle.fi/radiosuomi/taustapeili/2011/10/teuvo_peltoniemi_-_vaiettujen_aiheiden_aanitorvi_2940156.html) 11.10.2011, and in [Yliopisto magazine](http://www.kolumbus.fi/teuvo.peltoniemi/files/Peltoniemi_Yliopisto_5-2007.pdf) 5/2007.
+Links: Teuvo Peltoniemi Wikipedia English
 
 [More CV details]({{ site.baseurl }}/cv)
