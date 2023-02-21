@@ -22,6 +22,5 @@ Teuvo Peltoniemi on EU:n päihdetelematia-aiheisen [Prevnet Networkin](http://ww
 
 Teuvo Peltoniemi ja hänen ideoimansa ja johtamansa hankkeet ovat saaneet useita kansallisia ja kansainvälisiä tunnustuksia. Opetus- ja kulttuuriministeriö myönsi 2011 Teuvo Peltoniemelle _Tiedonjulkistamisen elämäntyövaltionpalkinnon_ "esimerkillisestä ja ennakkoluulottomasta tiedonjulkistamistyöstä". Vuonna 2006 hän sai _Pääministerin Parhaat tietoyhteiskuntakäytännöt_ erikoispalkinnon Päihdelinkistä. Hän on ollut 2006 _Vuoden tiedottaja_, ja 2007 _Vuoden tiedetoimittaja_. 2009 hän oli yksi loppukilpailuun päässeestä "_Vuoden pääkirjoituksen tekijä"_; -sarjassa. Vuonna hän sai 2010 _Päihdetiedotuksen elämäntyöpalkinnon_.
 
-Peltoniemeä käsitteleviä henkilöjuttuja on ilmestynyt mm. [Suomalaisia etsimässä](https://nakoislehti.hs.fi/7ac11991-7cb4-4ac5-b364-a1c4f75cb3a7/10) Helsingin Sanomien kuukausiliitteessä 3.2.2018, [Kelan Elämässä](https://elamassa.fi/elakkeella/muutto-elakkeella-espanjaan-sosiaaliturva-ulkomailla)\-lehdessä 19.4.2017, Suomalainen Espanjassa -lehdessä 18.2.2014, Sosiaalitiedossa11/2011:11, Radio Suomen [Taustapeilissä](http://yle.fi/radiosuomi/taustapeili/2011/10/teuvo_peltoniemi_-_vaiettujen_aiheiden_aanitorvi_2940156.html) 11.10.2011, ja [Yliopistolehdessä](http://www.kolumbus.fi/teuvo.peltoniemi/files/Peltoniemi_Yliopisto_5-2007.pdf) 5/2007.
-
+Linkkejä: Teuvo Peltoniemi WIKIPEDIA Suomi 
 [Tarkemmat CV-tiedot]({{ site.baseurl }}/cv)
