@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alkoholistihuollon toiminta-alueet - tutkimus Helsingin PAVI- huoltotoimiston työn sisällöstä 
+title: Alkoholistihuollon toiminta-alueet - tutkimus Helsingin PAVI- huoltotoimiston työn sisällöstä (251s.)
 title_en: Areas of operation of alcohol care - a study of the content of the work of the PAVI addiction care office in Helsinki
 image: PAVI lisuri3.jpg
 published: Helsinki 1979
