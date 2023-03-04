@@ -18,7 +18,7 @@ Mr. Peltoniemi has worked over 20 years at the A-Clinic Foundation in Helsinki, 
 
 Mr Peltoniemi is an active member in journalist, author and research associations: International Science Writers Association (ISWA), Costa Press Club (Spain), Finnish Association of Magazine Editors-in-Chief, Finnish Association of Science Editors and Journalists, Health Journalists of Finland, Finnish Technology journalists' Association Presstek, Finnish Environmental Journalists Association, Finnish Association of Non-Fiction Writers, Scientific board of the Instituto para el Estudio de las Adicciones. He has served in many of these also as a member of board. On the European level he is Founder and Honorary President of the [Prevnet](http://www.prevnet.net/) telematic network. He is also Past President and founding member of the [Encare Network](http://www.encare.info/) on children in substance abuse families.
 
-Mr. Peltoniemi has received a number of Finnish and EU awards. The Ministry of Education and Culture awarded him in 2011 the _"State Life Work Award on Public Information". In 2006 he got the _"Special Prime Minister,s IT Award"_ , He was the _"Press Officer of the Year"_ in 2006, and the _"Science Journalist of the Year"_ in 2007.
+Mr. Peltoniemi has received a number of Finnish and EU awards. The Ministry of Education and Culture awarded him in 2011 the "State Life Work Award on Public Information". In 2006 he got the _"Special Prime Minister,s IT Award"_ , He was the _"Press Officer of the Year"_ in 2006, and the _"Science Journalist of the Year"_ in 2007.
 
 Links: Teuvo Peltoniemi Wikipedia English
 
