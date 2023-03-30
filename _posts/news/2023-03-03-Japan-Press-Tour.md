@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Press tour to Japan March 2023
-categories:  [Events]
+categories: [Events]
 ---
 FPCI - decommissioning of Daiichi (On-line, March 3rd). 
 In Japan: Sapporo Press Tour (March 16th-17th). 
