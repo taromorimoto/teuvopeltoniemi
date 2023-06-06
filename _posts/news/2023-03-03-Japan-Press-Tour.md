@@ -3,7 +3,5 @@ layout: post
 title: Press tour to Japan March 2023
 categories: [Events]
 ---
-FPCI - decommissioning of Daiichi (On-line, March 3rd). 
-In Japan: Sapporo Press Tour (March 16th-17th). 
-Visits and interviews in Tokyo, Fukushima area, Nagoya area, Nagasaki, Naha (March 13th-15th, 18th-26th). 
+Visits and interviews in Tokyo, Fukushima, Hokkaido, Nagoya area, Nagasaki, Naha (March 12-26). 
 Organizing help by FPCI, Y. Koide & K. Hattori. Financial part-support by Sasakawa Fnd.
