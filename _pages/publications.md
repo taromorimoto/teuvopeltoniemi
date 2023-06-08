@@ -13,6 +13,7 @@ _The list includes my scientific, professional, and popular papers, articles, bo
 **Updated June 8, 2023**
 
 **2023**
+
 Peltoniemi, Teuvo: “Fukushiman säteilypilvi varjostaa yhä evakoiden elämää” (The radiation cloud of Fukushima still shadows the lives of evacuees). Tiedetoimittaja nr 2, 2023.
 
 **2022**
