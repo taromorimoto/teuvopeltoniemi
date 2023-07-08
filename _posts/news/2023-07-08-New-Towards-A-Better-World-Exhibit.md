@@ -1,5 +1,5 @@
 ---
 layout: post
-title: New utopian article
+title: New Towards a Better World Exhibit
 categories:  [Article] 
 ---
