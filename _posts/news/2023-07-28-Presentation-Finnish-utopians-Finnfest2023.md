@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Presentation “Finnish Utopian Communities in Americas”
+title: Presentation about Finnish Utopians in Americas at Finnfest2023
 categories: [Presentation]
 ---
-Presentation about the Finnish Utopian Communities in Americas. Finnfest2023, Duluth, MN. July 28.
+Presentation “Finnish Utopian Communities in Americas” at Finnfest2023, Duluth, MN. July 28.
