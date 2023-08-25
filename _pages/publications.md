@@ -8,10 +8,11 @@ permalink: /publications/
 
 ## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2023
 
-_The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundred). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. All books including also larger reports (total 32 items) are also listed at the Finnish National Library catalog "KANTO". This is not a complete list, as there many gaps especially for years 1990-2001.  Many of the recent items can easily be found on-line._  **Updated July 8, 2023**
+_The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundred). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. All books including also larger reports (total 32 items) are also listed at the Finnish National Library catalog "KANTO". This is not a complete list, as there many gaps especially for years 1990-2001.  Many of the recent items can easily be found on-line._  **Updated August 25, 2023**
+
 
 **2023**
-
+\*Peltoniemi, Teuvo: “Finnish Utopian Communities in Americas” at Finnfest2023, Duluth, MN. USA. July 28, 2023.
 
 \*Peltoniemi, Teuvo: “Nordic Utopian Communities Since 1700’s”. Utopian Studies Society / Europe. 2023 Conference. Boabes-Boloyai University, Cluj-Napoca, Romania. July 5-7, 2023.  
 
