@@ -12,6 +12,7 @@ _The list includes my scientific, professional, and popular papers, articles, bo
 
 
 **2023**
+
 \*Peltoniemi, Teuvo: “Finnish Utopian Communities in Americas” at Finnfest2023, Duluth, MN. USA. July 28, 2023.
 
 \*Peltoniemi, Teuvo: “Nordic Utopian Communities Since 1700’s”. Utopian Studies Society / Europe. 2023 Conference. Boabes-Boloyai University, Cluj-Napoca, Romania. July 5-7, 2023.  
