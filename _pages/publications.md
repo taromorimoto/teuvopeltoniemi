@@ -14,6 +14,8 @@ _The list includes my scientific, professional, and popular papers, articles, bo
 
 **2023**
 
+Peltoniemi, Teuvo: "Japanin ydinvoima murroksessa". ATS Ydintekniikka 4/2023. Vol.52, ss 23-24
+
 \*Peltoniemi, Teuvo: “Nordic utopian communities and colonization” at the workshop Transatlantic Crossings – Nordic Experiences of Emigration and Democracy (1825−1925). National Library of Norway, Oslo, 4−5 December 2023.  
 
 \*Peltoniemi, Teuvo: "Virtuality and Utopian Communities" at the Electricdreams - Between Fiction and Society II conference. IULM University, Milan 18-20 October, 2023.
