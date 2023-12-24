@@ -437,6 +437,12 @@ nav {
   margin: 0;
 }
 
+@media only screen and (min-width: 768px) {
+  .posts .entry p {
+    font-size: 14px;
+  }
+}
+
 .posts article img {
   width: 180px;
   height: 130px;
@@ -445,10 +451,6 @@ nav {
 }
 
 @media only screen and (min-width: 768px) {
-  .posts .entry p {
-    font-size: 14px;
-  }
-
   .posts article img {
     width: 100%;
     height: auto;
