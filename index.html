@@ -13,7 +13,9 @@ layout: default
     {% endif %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        <img src="{{ site.baseurl }}/images/{{ post.image }}" />
+        {% if post.image %}
+          <img src="{{ site.baseurl }}/images/{{ post.image }}" />
+        {% endif %}
         <h3>{{ post.title }}</h3>
         <div class="post_meta">
           <span class="post_date">{{ post.date | date: "%B %e, %Y" }}</span>
