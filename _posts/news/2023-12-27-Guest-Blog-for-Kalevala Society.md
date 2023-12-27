@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Guest Blog on Utopian Communities at the Kalevala Society
+title: A Guest Blog on Utopias at Kalevala Society
 categories: [Article]
 image: Kalevalaseura.jpg
 ---
