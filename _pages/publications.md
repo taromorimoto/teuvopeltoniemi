@@ -12,11 +12,13 @@ _The list includes my scientific, professional, and popular papers, articles, bo
 
 **2024**
 
+Peltoniemi, Teuvo: "Matti Kurikan Sointulat Australiassa, Kanadassa ja Suomessa". Kulttuuriyhdistys Kaleva. Kukko. Fuengirola, Spain. Jan 13, 2024.
+
 **2023**
 
 Peltoniemi, Teuvo: "Suomi on utopiayhteisöjen huippumaa". Kalevalaseuran blogi. 27.12.2023. https://kalevalaseura.fi/artikkeli/mita-avustuksilla-tehdaan/
 
-Peltoniemi, Teuvo: "Japanin ydinvoima murroksessa". ATS Ydintekniikka 4/2023. Vol.52, ss 23-24
+Peltoniemi, Teuvo: "Japanin ydinvoima murroksessa". ATS Ydintekniikka 4/2023. Vol.52, ss 23-24.
 
 \*Peltoniemi, Teuvo: “Nordic utopian communities and colonization” at the workshop Transatlantic Crossings – Nordic Experiences of Emigration and Democracy (1825−1925). National Library of Norway, Oslo, 4−5 December 2023.  
 
