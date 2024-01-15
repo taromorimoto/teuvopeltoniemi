@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Matti Kurikka's Utopias" in Fuengirola, Spain
+title: Matti Kurikka's Utopias in Fuengirola, Spain
 categories: [Presentation]
 image: Fuge-Kukko.jpg
 ---
