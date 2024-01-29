@@ -6,9 +6,9 @@ permalink: /publications/
 
 ---
 
-## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2023
+## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2024
 
-_The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. All books including also larger reports (total 32 items) are also listed at the Finnish National Library catalog "KANTO". This is not a complete list, as there many gaps especially for years 1990-2001.  Many of the recent items can easily be found on-line._ **Updated Dec. 15, 2024**
+_The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. All books including also larger reports (total 32 items) are also listed at the Finnish National Library catalog "KANTO". This is not a complete list, as there many gaps especially for years 1990-2001.  Many of the recent items can easily be found on-line._*Updated Jan. 29,2024*
 
 **2024**
 
@@ -422,6 +422,8 @@ Peltoniemi, Teuvo: Haere mai - tervetuloa Uusi-Seelanti. Lyhennetty nettiversio
 
 Peltoniemi, Teuvo: Suu puhtaaksi viinasta: Päihteet ja media. ”Vuoden tiedetoimittaja” –palkinto. Videoversio. Tieteen päivät. Helsinki 11.1. 2007.
 
+Peltoniemi, Teuvo:  Lasinen lapsuus - päihdeperheet kansanterveysongelmana. EriKa: Erityisopetuksen tutkimus- ja menetelmätieto 2/2007.
+
 **2006**
 
 Peltoniemi, Teuvo: 10-vuotias Päihdelinkki - tietopankista e-auttamiseen. Tervesuomi.fi -seminaari, Helsinki 19.12.2006.
@@ -759,6 +761,11 @@ Peltoniemi, Teuvo: Telematia: kokeiluista osaksi arkityötä. Tiimi 6/2000.
 \*Peltoniemi, Teuvo: Using Internet in preventing drug addiction, Official Netd@ys Europe 2000. Mantua, Italy, Nov. 23-24, 2000.
 
 \* Peltoniemi, Teuvo: Telematic drug and alcohol work in Finland. Percorsi di Integrazione 2/2000.
+
+Peltoniemi, Teuvo: Viina on viisaiden vanhempien juoma. Hyvä terveys 9/2000.
+
+Peltoniemi, Teuvo: Miksi telematiikka on tarpeellista päihdetyössä? Promo 4-5/2000.
+
 
 **1999**
 
@@ -1100,6 +1107,10 @@ Peltoniemi, Teuvo: Pohjoismainen huumeseminaari koolla Tanskassa. Korkki 1/1985
 
 Peltoniemi, Teuvo: Uutta perheväkivaltatutkimuksesta. Perheterapia. Vol. 1 (1): 17-19, 1985.
 
+Peltoniemi, Teuvo: Muuttuva nuorten alkoholin käyttö. Työväen raittiuspäivät -toimikunnan julkaisu 1985.
+
+Peltoniemi, Teuvo: Star Gemini 10X: meluisa mutta toimiva. Tietokone 1/1985.
+
 **1984**
 
 \*Peltoniemi, Teuvo: Alcohol and family violence. Paper presented at the Second National Conference for Family Violence Researchers, Durham, N.H. August 4-7, 1984.
@@ -1133,6 +1144,8 @@ Peltoniemi, Teuvo: Perheväkivalta sosiaalisena ongelmana. Alkoholipolitiikka.�
 \*Peltoniemi, Teuvo: Strategies to cope with family violence among the Finnish and Swedish population. Paper presented at the Fifth International Congress on Child Abuse and Neglect. Montreal, Quebec, Canada, Sept. 16-19, 1984.
 
 Peltoniemi, Teuvo: Suomessa tarvitaan tietoa lasten seksuaalisesta hyväksikäytöstä. Lapset ja yhteiskunta. Vol. 43(3): 182-185, 1984.
+
+Peltoniemi, Teuvo: Kannettavaa kätevyyttä. Tietokone 9/1984.
 
 **1983**
 
@@ -1183,6 +1196,8 @@ Peltoniemi, Teuvo: Suomalaisten tiedot turvakodista syksyllä 1981. Esikko. Vo
 Peltoniemi, Teuvo: Turvakodit - rauhoituspaikka perheväkivallasta kärsiville. Suomen Kunnallislehti. Vol (14): 15-16, 1983.
 
 Peltoniemi, Teuvo: Turvakodit ja perheväkivalta. Alkoholipolitiikka. Vol. 48(6): 343- 350, 1983.
+
+Peltoniemi, Teuvo: VICTEXT: köyhän miehen sanojenkäsittelyjärjestelmä. Prosessori 5/1983.
 
 **1982**
 
@@ -1367,6 +1382,8 @@ Peltoniemi, Teuvo: Paikallisen päihdetutkimuksen metodiikka ja malli. Teoksess
 Peltoniemi, Teuvo: Paikallisten päihdetutkimusten metodisista virheistä. Alkoholikysymys 4/1977: 160-167. Myös Lahelma, Eero (toim.): Paikallinen päihdetutkimus. SRL. Helsinki 1977.
 
 Peltoniemi, Teuvo: PAV-huollon sisältö ja yhteistyö Oulussa. Oulun kaupungin sosiaalitoimi. Sarja A9/1977. (85 sivua + liitteitä).
+
+Peltoniemi, Teuvo: Vääriä käsityksiä peruskoulusta. Opettaja 1977.
 
 Peltoniemi, Teuvo: Suomalaisten käsitykset peruskoulusta 1969-1975. Kasvatus 8/1977: 116-120.
 
