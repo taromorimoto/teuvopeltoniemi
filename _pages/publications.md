@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2024
 
-_The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. All books including also larger reports (total 32 items) are also listed at the Finnish National Library catalog "KANTO". This is not a complete list, as there many gaps especially for years 1990-2001.  Many of the recent items can easily be found on-line._*Updated Jan. 29,2024*
+_The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line._*Updated Feb. 1,2024*
 
 **2024**
 
@@ -315,6 +315,121 @@ Peltoniemi, Teuvo: Kuningatar Silvia ja kansainvälinen huumepolitiikka. Teuvob
 \*Peltoniemi, Teuvo: ICT services for media addiction, prevention and treatment in Finland. 2\. Berliner Mediensuch-Konferenz – Beratung und Behandlung für mediengefährdete und –geschädigte Menschen. Berlin, Germany 6-7 March 2009.
 
 Peltoniemi, Teuvo: Komissio kännykänkäyttäjän puolella - Antti Peltomäen haastattelu. Teuvoblogi - Tiimin päätoimittajan blogi 1.3.2009.
+
+Peltoniemi, Teuvo: Alkoholi- ja huumevalistuksen ongelmia.  s. 50–59 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Alkoholi ja perheväkivaltailmiöt. s. 79–83 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Alkoholi, huumeet ja ihmisen vapaus. s. 21–22 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Alkoholitiedotus moraalisena ongelmana.  s. 18–20 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Arkinen, arktinen ja arkaainen humala – onko suomalaista viinapäätä olemassa? s. 11–17 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Auttamalla Pietaria autat itseäsi. s. 112–113 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Bivongi ja mietojen linja. s. 131–132 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Elvytetään päihdehuolto. s. 188–189 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Ennaltaehkäisevä päihdetyö ei ole yhden asian liike. s. 157–158 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Globaalit päihteet. s. 105–106 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Huume nimeltä melu. s. 91–92 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Huumeet ja sananvapaus.  s. 48–49 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Huumeet YK:n painopistealueena.  s. 60–64 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Huumekauppa rasittaa Kosovon jälleenrakennusta. s. 125–128 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Huumerintamalla jotakin uutta.  s. 65–66 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Iberian suomalaisten päihdeongelmat. s. 116–124 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Julkkikset juomareina. s. 34–35 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Juoppo vai hullu. s. 77–78 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Kanadalaista nettiterapiaa.   s. 178–179 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Kansallinen alkoholiherätys.  s. 25–27 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Kenen vastuu? s. 23–24 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Kohti kansainvälisyyttä.  s. 107–109 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009. 
+
+Peltoniemi, Teuvo: Kohtuuden tielle.  s. 28–29 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Kuoleeko ihmiskunta viinaan? s. 133–134 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Lapset erityisongelmana.  s. 93–94 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Lapsijuoppopeili. s. 95–96 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Lääkkeet hoitokeinoina ja päihteinä.  s. 75–76 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Media ja huumekampanjat.  s. 67–68 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Millä korvata hinta-ase alkoholipolitiikassa.  s. 182–183 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Miten auttaa päihdeäitejä.  s. 101–102 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Monipäihteisyyden haaste. s. 71–72 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Ongelmalliset huumeet.  s. 41–42 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Palvelurakenteista muutostukiverkkoihin.  s. 180–181 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Perheväkivallan toinen tuleminen.  s. 84–86 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Pitäisikö kannabis vapauttaa? s. 43–47 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Puhalla ja käynnistä – alkolukko avuksi rattijuoppouteen. s. 184–185 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Pullo ja polttopullo. s. 129–130 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Päihdeperheiden lasten auttaminen kuuluu kaikille. 97–98 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Päihdetyöllä on myös lisäarvoa. s. 155–156 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Päihdetyön näyttö. s. 137–154 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Päihdetyön vastauksia. s. 135–136 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: ”Päihteetön työpaikka” ja huumeet.  s. 30–31 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Pääministeri ja päihdeperheiden lapset. s. 103–104 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Rahapelaamisen yhteiskunnalliset hyödyt ja haitat.  s. 89–90 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Raittiutta ja raitistelua.  s. 38–40 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Riippuvuuksien kirjo. s. 69–70 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Riippuvuuksien riippuvuudet.  s. 73–74 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009. 
+
+Peltoniemi, Teuvo: Siperia opettaa. s. 114–115 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Terassilta tiputukseen.  s. 186–187 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Tietoyhteiskunta ja päihdetyö.  s. 163–177 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Tietoyhteiskunta muuttaa rankasti myös päihdehuollon todellisuutta. s. 161–162 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Toimittajien ammattikunta raitistumassa. s. 32–33 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Viinaa nyrkissä – yhdessä vai erikseen. s. 87–88 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Peltoniemi, Teuvo: Yhteinen huoli lasisesta lapsuudesta.  s. 99–100 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Päihdehuolto ja tietoyhteiskunta.  s. 159–160 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Päihdehuolto matkalla maailmalle. s. 110–111 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
+Päihdemyrkytyskansakuntamme. s. 36–37 kirjassa: Peltoniemi, Teuvo: Terassilta tiputukseen. A-klinikkasäätiö RS56. Helsinki 2009.
+
 
 **2008**
 
@@ -868,6 +983,8 @@ Peltoniemi, Teuvo: Kohti kansainvälisyyttä. Tiimi 1/96, 3-4
 Peltoniemi, Teuvo: Päihdehuolto ja tietoyhteiskunta. Tiimi 2/96 s 3
 
 Peltoniemi, Teuvo: Säätiölle laaja huumeprojekti. Tiimi 3-4/1996. s 3
+
+Peltoniemi, Teuvo: Teletekniikka ja päihdeinfo. Kirjassa: Jaakkola (toim.): Valtakunnalliset päihdepäivät Helsingissä. Raittiusjärjestöjen ry. 2.9.1996.
 
 **1995**
 
