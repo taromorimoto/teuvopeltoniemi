@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2024
 
-_The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line._*Updated Feb. 1,2024*
+_The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line._*Updated March. 1,2024*
 
 **2024**
 
@@ -857,13 +857,21 @@ Peltoniemi, Teuvo: "Päihteetön työpaikka" ja huumeet. Tiimi 3-4/2001.
 
 **2000**
 
+Peltoniemi, Teuvo: A-klinikkasäätiön ennaltaehkäisevä työ laajenee. Ajankohtaista päihdehuollosta. Ensiapulinja 143. Teoksessa Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 1996/2000.
+
+Peltoniemi, Teuvo: A-klinikkasäätiön tiedotuksen periaatteet A-linja 421-427.  Teoksessa Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 1996/2000.
+
 Peltoniemi, Teuvo: Alkoholi, huumeet ja ihmisen vapaus. Tiimi 3-4/2000.
 
 Peltoniemi, Teuvo: @vecin portaali avautuu 2001. Tiimi 6/2000.
 
 Peltoniemi, Teuvo: Heroiini hoitokeinona Sveitsissä. Tiimi 5/2000.
 
+Peltoniemi, Teuvo: Lasten seksuaalinen hyväksikäyttö. Ensiapulinja 334.  Teoksessa Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 1996/2000.
+
 Peltoniemi, Teuvo: Miksi telematia auttaa päihdetyössä? Tiimi 6/2000.
+
+Peltoniemi, Teuvo: Perheväkivalta. Tietolinja 333.  Teoksessa Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 1996/2000.
 
 \*Peltoniemi, Teuvo: Prevnet Euro – telematic services for drugs and alcohol in five EU countries”. 43rd ICAA International Institute on the Prevention and Treatment of dependencies, Bahrain, 3-7, September 2000
 
@@ -901,6 +909,10 @@ Peltoniemi, Teuvo & Saukkonen, Kai: Anonyymi neuvonta Internetissä. Päihdepä
 Peltoniemi, Teuvo: Päihdelinkki tarjoaa telemaattisia päihdepalveluja. Tiimi 3-4/1999.
 
 Peltoniemi, Teuvo: Päihdetyön näyttö. Tiimi 5/1999.
+
+Peltoniemi, Teuvo & Warsell, Leena: Suomalaisen laitoksen esipuhe ss. 12–13 teoksessa: van der Stel, Jaap & Woordewind,  Deborah (toim.) Ehkäisevän päihdetyön käsikirja – Alkoholi, huumeet ja tupakka. Euroopan neuvoston Pompidou-ryhmä & Jellinek Consultancy. A-klinikkasäätiön raporttisarja 31, Helsinki 1999.
+
+Peltoniemi, Teuvo & Tammi, Tuukka: Suomenkielisen laitoksen esipuhe teoksessa: Kröger, Christoph & Winter Heike & Shaw, Rose: Käsikirja ehkäisevän päihdetyön suunnittelijoille ja arvioijille. IFT Institut für Therapieforschung & Prevnet. EMCDDA, Lissabon 1998. A-klinikkasäätiö & Prevnet EU & Stakes. A-klinikkasäätiö/Prevnet, Helsinki 1998.
 
 \# \*Tammi, Tuukka & Peltoniemi, Teuvo (eds.): Telematic drug & alcohol prevention: guidelines and experiences from Prevnet Euro. European Commission & A-Clinic Foundation. ACF Report Series nr 33. Helsinki 1999.
 
