@@ -232,7 +232,21 @@ Peltoniemi, Teuvo: Huumeita ja HIV:iä Jäämerellä. Iltalehti.fi -blogit 29.1.
 
 **2010**
 
+Peltoniemi, Teuvo: Anaboliset steroidit. Ensiapulinja 134. s. 23 teoksessa Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
+
+Peltoniemi, Teuvo: A-klinikkasäätiön kansainvälinen toiminta. A-linja 413. s. 91 teoksessa: Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
+
+Peltoniemi, Teuvo: A-klinikkasäätiön tiedotus. A-linja 421–427.  ss. 92–95 teoksessa: Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
+
+Peltoniemi, Teuvo: Kannabiksen laillistaminen Huumelinja 545. s. 137 teoksessa Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
+
+Peltoniemi, Teuvo: Lasinen lapsuus, Prevnet ja muut telematiaprojektit. A-linja 425–427.  ss. 96–98 teoksessa: Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
+
 Peltoniemi, Teuvo: Meluaddiktit särkee mun korvat. Iltalehti.fi -blogit 3.12.2010.
+
+Peltoniemi, Teuvo: Nettiriippuvuus. Riippuvuuslinja 632. s. 148 teoksessa: Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 1996/2000.
+
+Peltoniemi, Teuvo: Perheväkivalta ja lasten seksuaalinen hyväksikäyttö. Tietolinja 333–334. ss.68–69 teoksessa: Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
 
 Peltoniemi, Teuvo: Verkkopalvelut päihdeprevention ja hoidon apuna. Paikallishallinnon yhteistoiminnan tehostaminen huumeiden vastaisessa työssä Murmanskin alueella -hankkeen 2010 päätösseminaari, Murmansk, Venäjä 1.12.2010.
 
