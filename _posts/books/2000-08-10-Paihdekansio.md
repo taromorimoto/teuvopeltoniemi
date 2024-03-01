@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Päihdekansio – Selvää tietoa 153s.
 title_en: In English Addiction Link Articles – Strait Facts
 image: Paihdekansio.jpg
