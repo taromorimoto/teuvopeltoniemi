@@ -232,21 +232,11 @@ Peltoniemi, Teuvo: Huumeita ja HIV:iä Jäämerellä. Iltalehti.fi -blogit 29.1.
 
 **2010**
 
-Peltoniemi, Teuvo: Anaboliset steroidit. Ensiapulinja 134. s. 23 teoksessa Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
 
-Peltoniemi, Teuvo: A-klinikkasäätiön kansainvälinen toiminta. A-linja 413. s. 91 teoksessa: Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
-
-Peltoniemi, Teuvo: A-klinikkasäätiön tiedotus. A-linja 421–427.  ss. 92–95 teoksessa: Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
-
-Peltoniemi, Teuvo: Kannabiksen laillistaminen Huumelinja 545. s. 137 teoksessa Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
-
-Peltoniemi, Teuvo: Lasinen lapsuus, Prevnet ja muut telematiaprojektit. A-linja 425–427.  ss. 96–98 teoksessa: Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
 
 Peltoniemi, Teuvo: Meluaddiktit särkee mun korvat. Iltalehti.fi -blogit 3.12.2010.
 
-Peltoniemi, Teuvo: Nettiriippuvuus. Riippuvuuslinja 632. s. 148 teoksessa: Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 1996/2000.
 
-Peltoniemi, Teuvo: Perheväkivalta ja lasten seksuaalinen hyväksikäyttö. Tietolinja 333–334. ss.68–69 teoksessa: Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
 
 Peltoniemi, Teuvo: Verkkopalvelut päihdeprevention ja hoidon apuna. Paikallishallinnon yhteistoiminnan tehostaminen huumeiden vastaisessa työssä Murmanskin alueella -hankkeen 2010 päätösseminaari, Murmansk, Venäjä 1.12.2010.
 
@@ -871,9 +861,21 @@ Peltoniemi, Teuvo: "Päihteetön työpaikka" ja huumeet. Tiimi 3-4/2001.
 
 **2000**
 
-Peltoniemi, Teuvo: A-klinikkasäätiön ennaltaehkäisevä työ laajenee. Ajankohtaista päihdehuollosta. Ensiapulinja 143. Teoksessa Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 1996/2000.
+Peltoniemi, Teuvo: Anaboliset steroidit. Ensiapulinja 134. s. 23 teoksessa Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
 
-Peltoniemi, Teuvo: A-klinikkasäätiön tiedotuksen periaatteet A-linja 421-427.  Teoksessa Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 1996/2000.
+Peltoniemi, Teuvo: A-klinikkasäätiön kansainvälinen toiminta. A-linja 413. s. 91 teoksessa: Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
+
+Peltoniemi, Teuvo: A-klinikkasäätiön tiedotus. A-linja 421–427.  ss. 92–95 teoksessa: Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
+
+Peltoniemi, Teuvo: Kannabiksen laillistaminen Huumelinja 545. s. 137 teoksessa Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
+
+Peltoniemi, Teuvo: Lasinen lapsuus, Prevnet ja muut telematiaprojektit. A-linja 425–427.  ss. 96–98 teoksessa: Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
+
+Peltoniemi, Teuvo: Nettiriippuvuus. Riippuvuuslinja 632. s. 148 teoksessa: Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
+
+Peltoniemi, Teuvo: Perheväkivalta ja lasten seksuaalinen hyväksikäyttö. Tietolinja 333–334. ss.68–69 teoksessa: Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
+
+Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 2000.
 
 Peltoniemi, Teuvo: Alkoholi, huumeet ja ihmisen vapaus. Tiimi 3-4/2000.
 
@@ -881,11 +883,9 @@ Peltoniemi, Teuvo: @vecin portaali avautuu 2001. Tiimi 6/2000.
 
 Peltoniemi, Teuvo: Heroiini hoitokeinona Sveitsissä. Tiimi 5/2000.
 
-Peltoniemi, Teuvo: Lasten seksuaalinen hyväksikäyttö. Ensiapulinja 334.  Teoksessa Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 1996/2000.
 
 Peltoniemi, Teuvo: Miksi telematia auttaa päihdetyössä? Tiimi 6/2000.
 
-Peltoniemi, Teuvo: Perheväkivalta. Tietolinja 333.  Teoksessa Peltoniemi, Teuvo (toim.) Päihdekansio – Selvää tietoa. A-klinikkasäätiö. Helsinki 1996/2000.
 
 \*Peltoniemi, Teuvo: Prevnet Euro – telematic services for drugs and alcohol in five EU countries”. 43rd ICAA International Institute on the Prevention and Treatment of dependencies, Bahrain, 3-7, September 2000
 
