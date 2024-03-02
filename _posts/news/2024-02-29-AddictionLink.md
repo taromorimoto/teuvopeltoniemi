@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: From history towards future with online prevention and therapy of Addictions in Finland
+title: From History towards Future with on-line Prevention and Therapy of Addictions in Finland
 categories: [Presentation]
 image: AddictionLink.jpg
 ---
