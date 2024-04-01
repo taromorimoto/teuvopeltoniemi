@@ -8,9 +8,12 @@ permalink: /publications/
 
 ## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2024
 
-_The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line._ *Updated March. 1, 2024*
+_The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated April 1, 2024*
+
 
 **2024**
+
+Peltoniemi, Teuvo: "Päihdevalistuksesta verkkoterapiaan ja??" Päihdelääketieteen päivät. Tripla, Helsinki,29.2.2024.
 
 Peltoniemi, Teuvo: "Matti Kurikan Sointulat Australiassa, Kanadassa ja Suomessa". Kulttuuriyhdistys Kaleva. Kukko. Fuengirola, Spain. Jan 13, 2024.
 
