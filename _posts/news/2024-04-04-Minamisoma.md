@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minamisoma Futabaya Ruokan evacuees
+title: Minamisoma Futabaya Ryokan evacuees
 categories: [Article]
 image: Kokoro-pieni.jpg
 ---
