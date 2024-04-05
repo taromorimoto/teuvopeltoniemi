@@ -13,7 +13,7 @@ The list includes my scientific, professional, and popular papers, articles, boo
 
 **2024**
 
-Peltoniemi, Teuvo: ”Fukushiman evakot hakivat apua Tsernobylistä”  Kokoro nr 1/2024: 10-13.
+Peltoniemi, Teuvo: ”Fukushiman evakot hakivat apua Tsernobylistä”  Kokoro 1/2024: 10-13.
 
 Peltoniemi, Teuvo: "Päihdevalistuksesta verkkoterapiaan ja??" Päihdelääketieteen päivät. Tripla, Helsinki,29.2.2024.
 
