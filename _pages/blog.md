@@ -1,14 +1,13 @@
 ---
 layout: page
 permalink: /blog/
-title: Blog
+title: Blogi
 ---
 
 
 <div class="posts">
-  <h1>Blogi</h1>
   {% for post in site.categories['Blog'] %}
-  <article class="post">
+  <article class="post clearfix">
     <img src="{{ site.baseurl }}/images/{{post.image}}" />
     <div>
       <h4><a href="{{ site.baseurl }}{{ post.url }}">
@@ -19,6 +18,15 @@ title: Blog
         {% if post.published %}
           <span>{{ post.published }}.</span>
         {% endif %}
+      </div>
+      <div class="post_meta">
+        <span class="post_date">{{ post.date | date: "%B %e, %Y" }}</span>
+        <div class="post-tags">
+          {% for category in post.categories %}
+            <span>{{category}}</span>
+            {% unless forloop.last %}&nbsp;{% endunless %}
+          {% endfor %}
+        </div>
       </div>
     </div>
   </article>
