@@ -371,7 +371,7 @@ p>img {
 
 nav {
   float: left;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 0;
   font-family: $helveticaNeue;
   font-size: 18px;
   white-space: nowrap;
@@ -458,7 +458,7 @@ nav {
     object-fit: cover;
     top: 10px;
     position: relative;
-  }  
+  }
 }
 
 .posts > .post {
