@@ -8,7 +8,7 @@ layout: default
   <h1>Latests news</h1>
   {% for post in site.posts %}
     <!-- Skip posts "Books" category -->
-    {% if post.categories contains 'Books' %}
+    {% if post.categories contains 'Books' or post.categories contains 'Blog' %}
       {% continue %}
     {% endif %}
     <article class="post">
