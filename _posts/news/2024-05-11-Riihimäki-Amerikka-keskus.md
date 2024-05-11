@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentation at Amerikka-keskus, Riihimäki
+title: Presentation at Amerikka-keskus in Riihimäki
 categories: [Presentation]
 image: Amerikka-keskus.jpg
 ---
