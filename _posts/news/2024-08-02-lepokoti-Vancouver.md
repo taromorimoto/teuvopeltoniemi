@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Utopian presentation at Finnish Lepokoti in Vancouver"
+title: "Finnish Utopian presentation in Vancouver"
 categories: [Presentation]
 image: Finnish-Rest-Home-Vancouver.jpg
 ---
