@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nordic Utopian Lecture in Vancouver 
+title: Nordic Utopian lecture in Vancouver 
 categories: [Presentation]
 image: KanadaScandi.jpg
 ---
