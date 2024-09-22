@@ -13,11 +13,11 @@ The list includes my scientific, professional, and popular papers, articles, boo
 
 **2024**
 
-\*Peltoniemi, Teuvo: “Finnish and Scandinavian utopian communities in Canada and round the world”. Presentation at the Scandinavian Community Centre, Vancouver, August 5, 2024.
+\*Peltoniemi, Teuvo: “Finnish and Scandinavian utopian communities in Canada and round the world”. Presentation at Scandinavian Community Centre, Vancouver, August 5, 2024.
 
 Peltoniemi, Teuvo: “Suomalaisten utopiayhteisöt maailmalla” luento Lepokoti, Vancouver, 2.8.2024.
 
-\*Peltoniemi, Teuvo: “Three Centuries and Six Continents of Finnish Utopias” presentationat at Finnfest2024, Duluth, MN, July 23-28, 2024.
+\*Peltoniemi, Teuvo: “Three Centuries and Six Continents of Finnish Utopias” presentation at Finnfest2024, Duluth, MN, July 23-28, 2024.
 
 \*Peltoniemi, Teuvo: "Towards a Better World - Nordic Utopian communities". Exhibit at Finnfest2024, Duluth, MN. USA. July 23-28, 2024.
 
@@ -33,15 +33,15 @@ Peltoniemi, Teuvo: "Suomi on utopiayhteisöjen huippumaa". Kalevalaseuran blogi.
 
 Peltoniemi, Teuvo: "Japanin ydinvoima murroksessa". ATS Ydintekniikka 4/2023. Vol.52, ss 23-24.
 
-\*Peltoniemi, Teuvo: “Nordic utopian communities and colonization” at the workshop Transatlantic Crossings – Nordic Experiences of Emigration and Democracy (1825−1925). National Library of Norway, Oslo, 4−5 December 2023.  
+\*Peltoniemi, Teuvo: “Nordic utopian communities and colonization” at the workshop Transatlantic Crossings – Nordic Experiences of Emigration and Democracy (1825−1925). Presentation at National Library of Norway, Oslo, 4−5 December 2023.  
 
-\*Peltoniemi, Teuvo: "Virtuality and Utopian Communities" presentation at the Electricdreams - Between Fiction and Society II conference. IULM University, Milan 18-20 October, 2023.
+\*Peltoniemi, Teuvo: "Virtuality and Utopian Communities" presentation at Electricdreams - Between Fiction and Society II conference. IULM University, Milan 18-20 October, 2023.
 
 \*Peltoniemi, Teuvo: “Finnish Utopian Communities in Americas” presentation at Finnfest2023, Duluth, MN. USA. July 28, 2023.
 
 \*Peltoniemi, Teuvo: Exhibit: "Towards a Better World - Nordic Utopian communities". Exhibit at Finnfest2023, Duluth, MN. USA. July 28, 2023.
 
-\*Peltoniemi, Teuvo: “Nordic Utopian Communities Since 1700’s”. Utopian Studies Society / Europe. 2023 Conference. Boabes-Boloyai University, Cluj-Napoca, Romania. July 5-7, 2023.  
+\*Peltoniemi, Teuvo: “Nordic Utopian Communities Since 1700’s”. presentation at Utopian Studies Society/Europe Conference. Boabes-Boloyai University, Cluj-Napoca, Romania. July 5-7, 2023.  
 
 Peltoniemi, Teuvo: “Fukushiman säteilypilvi varjostaa yhä evakoiden elämää” (The radiation cloud of Fukushima still shadows the lives of evacuees). Tiedetoimittaja nr 2/2023. (<https://www.tiedetoimittajat.fi/fukushiman-sateilypilvi-varjostaa-yha-evakoiden-elamaa/>)
 
@@ -55,11 +55,11 @@ Peltoniemi, Teuvo: ”Suomalaiset utopiayhteisöt”. Höök-elokuvan taustaluen
 
 Peltoniemi, Teuvo: taustahaastattelut 1.11.2022 podcast-ohjelmaan (46 min).  "Tervetuloa, tervemenoa". Siirtolaisuusinstituutti 1.11.2022.
 
-\*Peltoniemi, Teuvo:  _“Finnish and Scandinavian Utopian communities”_ The 45th SUS Conference. Charleston, S.C. USA Nov. 9-13, 2022.
+\*Peltoniemi, Teuvo: “Finnish and Scandinavian Utopian communities” presentation at The 45th SUS Conference. Charleston, S.C. USA Nov. 9-13, 2022.
 
 Peltoniemi, Teuvo: ”Ydinvoimaa ja ydinjätettä Hollannissa”. Tiedetoimittaja 3/2022. (<https://www.tiedetoimittajat.fi/ydinvoimaa-ja-ydinjatteita-hollannissa/>)
 
-\*Peltoniemi, Teuvo:  “Towards a better world - The Scandinavian Utopian Communities from 1700s until 1900s” 32nd AEMI Conference, Museu das Migrações e das Comunidades, Fafe, Portugal, Sept. 28th-Oct 1st, 2022.
+\*Peltoniemi, Teuvo:  “Towards a better world - The Scandinavian Utopian Communities from 1700s until 1900s” presentation at 32nd AEMI Conference, Museu das Migrações e das Comunidades, Fafe, Portugal, Sept. 28th-Oct 1st, 2022.
 
 \*Peltoniemi, Teuvo: ”Finnish & Scandinavian Utopian Communities”.  Paper for the 22nd Utopian Studies Society Conference: Opening Utopia -- New Directions in Utopian Studies, Brighton, UK 13-15 July 2022.
 
