@@ -1235,6 +1235,8 @@ Peltoniemi, Teuvo: Karua elämää ihanneyhteisöissä. Helsingin Sanomat, sunn
 
 Peltoniemi, Teuvo: Kaukaiset utopiat. Korkki 2/1985: 10-12.
 
+Peltoniemi, Teuvo: Kohti parempaa maailmaa. Äänikirja Daisy2.02. Lukija Riitta-Anneli Forss. 16h31min. Celia Näkövammaisten kirjasto. Helsinki 1985.
+
 \# Peltoniemi, Teuvo: Kohti parempaa maailmaa - suomalaisten ihannesiirtokunnat 1700- luvulta nykypäivään. Otava. 1985. (240 sivua)
 
 Peltoniemi, Teuvo: Lasten seksuaalinen hyväksikäyttö. Päihdepuhelimen ohjelmanauha. Helsingin kaupungin raittiustoimisto. Myös Korkki 2/1985.
