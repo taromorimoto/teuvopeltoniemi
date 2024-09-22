@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kohti parempaa maailmaa – Äänikirja. Lukija Riitta-Anneli Forss. (16h31min.)
+title: Kohti parempaa maailmaa – Äänikirja. (16h31min.)
 title_en: Towards a better world – Audio book.
 image: KPMCeliakasetti.jpg
 order: 
