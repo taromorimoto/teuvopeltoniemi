@@ -8,16 +8,24 @@ permalink: /publications/
 
 ## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2024
 
-The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated April 5, 2024*
+The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated September 22, 2024*
 
 
 **2024**
+
+\*Peltoniemi, Teuvo: “Finnish and Scandinavian utopian communities in Canada and round the world”. Presentation at the Scandinavian Community Centre, Vancouver, August 5, 2024.
+
+Peltoniemi, Teuvo: “Suomalaisten utopiayhteisöt maailmalla” luento Lepokoti, Vancouver, 2.8.2024.
+
+\*Peltoniemi, Teuvo: “Three Centuries and Six Continents of Finnish Utopias” presentationat at Finnfest2024, Duluth, MN, July 23-28, 2024.
+
+\*Peltoniemi, Teuvo: "Towards a Better World - Nordic Utopian communities". Exhibit at Finnfest2024, Duluth, MN. USA. July 23-28, 2024.
 
 Peltoniemi, Teuvo: ”Fukushiman evakot hakivat apua Tsernobylistä”  Kokoro 1/2024: 10-13.
 
 Peltoniemi, Teuvo: "Päihdevalistuksesta verkkoterapiaan ja??" Päihdelääketieteen päivät. Tripla, Helsinki,29.2.2024.
 
-Peltoniemi, Teuvo: "Matti Kurikan Sointulat Australiassa, Kanadassa ja Suomessa". Kulttuuriyhdistys Kaleva. Kukko. Fuengirola, Spain. Jan 13, 2024.
+Peltoniemi, Teuvo: "Matti Kurikan Sointulat Australiassa, Kanadassa ja Suomessa". Kulttuuriyhdistys Kaleva. Kukko. Fuengirola, Spain. 13.1.2024.
 
 **2023**
 
@@ -27,9 +35,11 @@ Peltoniemi, Teuvo: "Japanin ydinvoima murroksessa". ATS Ydintekniikka 4/2023. Vo
 
 \*Peltoniemi, Teuvo: “Nordic utopian communities and colonization” at the workshop Transatlantic Crossings – Nordic Experiences of Emigration and Democracy (1825−1925). National Library of Norway, Oslo, 4−5 December 2023.  
 
-\*Peltoniemi, Teuvo: "Virtuality and Utopian Communities" at the Electricdreams - Between Fiction and Society II conference. IULM University, Milan 18-20 October, 2023.
+\*Peltoniemi, Teuvo: "Virtuality and Utopian Communities" presentation at the Electricdreams - Between Fiction and Society II conference. IULM University, Milan 18-20 October, 2023.
 
-\*Peltoniemi, Teuvo: “Finnish Utopian Communities in Americas” at Finnfest2023, Duluth, MN. USA. July 28, 2023.
+\*Peltoniemi, Teuvo: “Finnish Utopian Communities in Americas” presentation at Finnfest2023, Duluth, MN. USA. July 28, 2023.
+
+\*Peltoniemi, Teuvo: Exhibit: "Towards a Better World - Nordic Utopian communities". Exhibit at Finnfest2023, Duluth, MN. USA. July 28, 2023.
 
 \*Peltoniemi, Teuvo: “Nordic Utopian Communities Since 1700’s”. Utopian Studies Society / Europe. 2023 Conference. Boabes-Boloyai University, Cluj-Napoca, Romania. July 5-7, 2023.  
 
