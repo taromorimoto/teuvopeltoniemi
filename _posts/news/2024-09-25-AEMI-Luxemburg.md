@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Utopian Presentation in Luxembourg
+title: Utopian presentation in Luxembourg
 categories: [Presentation]
 image: AEMI-Luxemburg.jpg
 ---
