@@ -8,10 +8,13 @@ permalink: /publications/
 
 ## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2024
 
-The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated September 22, 2024*
+The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated September 30, 2024*
 
 
 **2024**
+
+ 
+*Peltoniemi, Teuvo: “Eco communities and migration: Intentional communities as modern descendants of old Utopian migration”. 34th Annual AEMI Conference, Dudelange, Luxembourg, 25-28 September, 2024.
 
 \*Peltoniemi, Teuvo: “Finnish and Scandinavian utopian communities in Canada and round the world”. Presentation at Scandinavian Community Centre, Vancouver, August 5, 2024.
 
