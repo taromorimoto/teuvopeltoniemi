@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paratiiseja rakentamassa - Suomalaisten utopiayhteisöjen historiaa (450s.)
+title: Paratiiseja rakentamassa - Suomalaisten utopiayhteisöjen historiaa (459s.)
 title_en: Building Paradises - History of Finnish Utopian Communities
 image: Paratiiseja.jpg
 order: 
