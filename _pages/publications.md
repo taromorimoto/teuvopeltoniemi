@@ -13,6 +13,7 @@ The list includes my scientific, professional, and popular papers, articles, boo
 
 **2024**
 
+\#Peltoniemi, Teuvo: “Paratiiseja rakentamassa - Suomalaisten utopiayhteisöjen historiaa", SKS-kirjat. 459 sivua. ISBN: 978-951-858-550-6, Helsinki 2024.
  
 *Peltoniemi, Teuvo: “Eco communities and migration: Intentional communities as modern descendants of old Utopian migration”. 34th Annual AEMI Conference, Dudelange, Luxembourg, 25-28 September, 2024.
 
