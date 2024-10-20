@@ -23,3 +23,4 @@ Mr. Peltoniemi has received a number of Finnish and EU awards. The Ministry of E
 Links: Teuvo Peltoniemi Wikipedia English
 
 [More CV details]({{ site.baseurl }}/cv)
+Updated 20.10.2024
