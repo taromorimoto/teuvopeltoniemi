@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Utopian book presentation, Fuengirola, Spain 
+title: Utopian book presentation in Fuengirola, Spain 
 categories: [Presentation]
 image: Heino-Argentina.jpg
 ---
