@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Päihdekansio Selvää tietoa (153ss)
-title_en: (In English) Addiction Link Articles  Strait Facts
+title: Päihdekansio Selvää tietoa (153s.)
+title_en: Addiction Link Articles  Strait Facts
 image: Paihdekansio.jpg
 order:
 ISBN: 952-9894-51-5
