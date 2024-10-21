@@ -57,7 +57,7 @@ Peltoniemi, Teuvo: “Fukushiman säteilypilvi varjostaa yhä evakoiden elämä�
 
 Peltoniemi, Teuvo: "Suomalaiset ja Skandinaaviset utopiayhteisöt". Stadin työväenkirjallisuuspäivät, Helsinki 25-26.11.2022.
 
-Peltoniemi, Teuvo: ”Suomalaiset utopiayhteisöt”. Höök-elokuvan taustaluento Suomi-Venäjä-Seurassa 24.11.2022.
+Peltoniemi, Teuvo: ”Suomalaiset utopiayhteisöt”. Höök-elokuvan taustaluento Suomi-Venäjä-Seurassa, Helsinki 24.11.2022.
 
 Peltoniemi, Teuvo: taustahaastattelut 1.11.2022 podcast-ohjelmaan (46 min).  "Tervetuloa, tervemenoa". Siirtolaisuusinstituutti 1.11.2022.
 
