@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Utopian book video interview, at Kainuu Book Fair.
+title: Utopian book video interview at Kainuu Book Fair
 categories: [Interview]
 image: Kainuun-kirjamessut-3OSA.jpg
 ---
