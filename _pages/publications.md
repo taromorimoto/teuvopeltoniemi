@@ -13,7 +13,7 @@ The list includes my scientific, professional, and popular papers, articles, boo
 
 **2024**
 
-Peltoniemi,Teuvo: ”Suomalaisutopistien jäljillä 1979–2024”, Benalmadenan Suomalaiset, Minerva, Benalmadena,Spain, 26.11.2024.
+Peltoniemi,Teuvo: ”Suomalaisutopistien jäljillä 1979–2024”, Benalmadenan Suomalaiset, Minerva, Benalmadena, Spain, 26.11.2024.
 
 Peltoniemi, Teuvo: ”Suomalaisutopistien jäljillä 1979–2024 - Kohtaamisia ja kohtaloita kuudessa maanosassa”, Kulttuuriyhdistys Kaleva, Taide&Tapas, Kukko, Fuengirola, Espanja, 19.10.2024.
 
