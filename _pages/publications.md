@@ -6,12 +6,12 @@ permalink: /publications/
 
 ---
 
-## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2024
+## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2025
 
-The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated December 13, 2024*
-
+The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated December 21, 2024*
 
 **2024**
+Peltoniemi, Teuvo: "Pienhiukkasten terveysvaarat - Näkymättömien saastuttajien jäljillä". Tiedetoimittaja 4/2024. https://www.tiedetoimittajat.fi/nakymattomien-saastuttajien-jaljilla-pienhiukkasten-terveysvaarat-oletettuja-pahempia/
 
 Peltoniemi, Teuvo: Jan Erolan Kainuun kirjamessuille tekemä videohaastattelu 12.12.2024. https://www.youtube.com/watch?v=mek_Zg2pGtk
 Peltoniemi,Teuvo: ”Suomalaisutopistien jäljillä 1979–2024”, Benalmadenan Suomalaiset, Minerva, Benalmadena, Spain, 26.11.2024.
