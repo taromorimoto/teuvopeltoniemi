@@ -6,14 +6,14 @@ title: Full detailed CV
 
 ## Mr. Teuvo Peltoniemi
 
-Updated Jan.5, 2025
+Updated Jan. 5, 2025
 
 Contact: [www.teuvopeltoniemi.net](www.teuvopeltoniemi.net), [www.facebook.com/teuvo.peltoniemi](www.facebook.com/teuvo.peltoniemi)
 
 
 ### Summary CV
 
-Mr. Teuvo Peltoniemi, Director of Sosiomedia Oy, is a science writer and journalist, researcher and trainer. His most recent journalistic themes are energy and environmental issues, migration and the new technology.  
+Mr. Teuvo Peltoniemi, Director of Sosiomedia Oy, is a science journalist, science writer, researcher, and non-fiction author. His most recent journalistic themes are energy and environmental issues, migration and the new technology.  
 
 During his career he has published on social and health topics, emigration, environment, medicine and technological issues. He has written, edited or translated nearly 20 books on alcohol, drug policy, family violence, utopian emigration, traffic and telematics. He was the first to study and publish books on family violence, child abuse and sexual abuse of children in Finland. He regularly writes general and scientific articles and presents papers at national and international conferences so that number of titles in his CV is over 500. He has organized about 40 joint European seminars for Finnish and European journalists and professionals, and produced into Finnish about 150 international prevention and training video programs on health and social topics.
 
