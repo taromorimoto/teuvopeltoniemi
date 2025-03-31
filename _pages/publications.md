@@ -13,11 +13,11 @@ The list includes my scientific, professional, and popular papers, articles, boo
 
 **2025**
 
-Peltoniemi, Teuvo: “Intentional communities: modern heirs to utopian migration” pp. 101-117 in AEMI journal, volume 21/22, 2024-2025, AEMI, Copenhagen 2025.
+*Peltoniemi, Teuvo: “Intentional communities: modern heirs to utopian migration” pp. 101-117 in AEMI journal, volume 21/22, 2024-2025, AEMI, Copenhagen 2025.
 
 Peltoniemi, Teuvo: ”Suomalaisutopistien jäljillä kuudessa maanosassa”, Seurakuntakoti, Fuengirola, Espanja, 21.3.2025.
 
-Peltoniemi, Teuvo: "Chasing Utopias in Canada - Utopioiden perässä Kanadassa". Länsirannikon uutiset – West Coast News, Spring Issue, Vancouver, February 27, 2025.
+*Peltoniemi, Teuvo: "Chasing Utopias in Canada - Utopioiden perässä Kanadassa". Länsirannikon uutiset – West Coast News, Spring Issue, Vancouver, February 27, 2025.
 
 **2024**
 
