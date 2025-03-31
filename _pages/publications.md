@@ -13,7 +13,7 @@ The list includes my scientific, professional, and popular papers, articles, boo
 
 **2025**
 
-Peltoniemi, Teuvo: “Intentional communities: modern heirs to utopian migration” pp. 101-117 in AEMI journal, volume 21/22|2024-2025, Editor: Emma Barnhøj Jeppesen, Association of European Migration Institutions, Copenhagen 2025.
+Peltoniemi, Teuvo: “Intentional communities: modern heirs to utopian migration” pp. 101-117 in AEMI journal, volume 21/22, 2024-2025, AEMI, Copenhagen 2025.
 
 Peltoniemi, Teuvo: ”Suomalaisutopistien jäljillä kuudessa maanosassa”, Seurakuntakoti, Fuengirola, Espanja, 21.3.2025.
 
