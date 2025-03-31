@@ -8,10 +8,12 @@ permalink: /publications/
 
 ## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2025
 
-The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated March 21, 2025*
+The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated March 31, 2025*
 
 
 **2025**
+
+Peltoniemi, Teuvo: “Intentional communities: modern heirs to utopian migration” pp. 101-117 in AEMI journal, volume 21/22|2024-2025, Editor: Emma Barnhøj Jeppesen, Association of European Migration Institutions, Copenhagen 2025.
 
 Peltoniemi, Teuvo: ”Suomalaisutopistien jäljillä kuudessa maanosassa”, Seurakuntakoti, Fuengirola, Espanja, 21.3.2025.
 
