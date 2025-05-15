@@ -13,7 +13,7 @@ The list includes my scientific, professional, and popular papers, articles, boo
 
 **2025**
 
-Peltoniemi, Teuvo: ”PARATIISEJA RAKENTAMASSA" haastattelijana Pekka Kettunen, Kirjailta, Siirtolaisuusinstituutti, Turku 14.5.2025.
+Peltoniemi, Teuvo: ”PARATIISEJA RAKENTAMASSA", haastattelijana Pekka Kettunen. Kirjailta, Siirtolaisuusinstituutti, Turku 14.5.2025.
 
 Peltoniemi, Teuvo: ”Suomalaisten 20 utopiayhteisöä", APY:n senioriyhdistys, Botta, Helsinki, 17.4.2025.
 
