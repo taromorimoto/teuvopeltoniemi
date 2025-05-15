@@ -8,10 +8,12 @@ permalink: /publications/
 
 ## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2025
 
-The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated March 31, 2025*
+The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated May 15, 2025*
 
 
 **2025**
+
+Peltoniemi, Teuvo: ”PARATIISEJA RAKENTAMASSA" haastattelijana Pekka Kettunen, Kirjailta, Siirtolaisuusinstituutti, Turku 14.5.2025.
 
 Peltoniemi, Teuvo: ”Suomalaisten 20 utopiayhteisöä", APY:n senioriyhdistys, Botta, Helsinki, 17.4.2025.
 
