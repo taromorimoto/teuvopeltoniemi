@@ -1087,7 +1087,9 @@ Peltoniemi, Teuvo: Nyt lobbaamaan. Tiimi 2/1994, s 3-4
 
 Peltoniemi, Teuvo: Lapsi alkoholiperheessä. Neuvoa-antavat 1/1993.
 
-\# Peltoniemi, Teuvo: Nuorten päihdeongelmien arviointi ja hoito. Sosiomedia. Helsinki 1993.
+\*Peltoniemi, Teuvo: "A Fragile Childhood“- A Finnish Health Education Project for Children in Alcohol and Drug Abusing Families".Second African Conference on Child Abuse And Neglect, Cape Town, South-Africa 6.-11.9.1993.
+
+Peltoniemi, Teuvo: Nuorten päihdeongelmien arviointi ja hoito. Sosiomedia. Helsinki 1993.
 
 **1992**
 
