@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research visit - Finnish VÄINÖLÄ Intentional Community 
+title: Research visit to Finnish VÄINÖLÄ Intentional Community 
 categories: [Events]
 image: Vainola-portti.jpg
 ---
