@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Press Visit on Photonics Innovations at Tampere University
+title: Press Visit on Photonics at Tampere University
 categories: [Events]
 image: HyperkuvaaminenPIENI.jpg
 ---
