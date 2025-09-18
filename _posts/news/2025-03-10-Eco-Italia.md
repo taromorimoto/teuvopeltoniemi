@@ -4,5 +4,5 @@ title: Research visits to Eco communities in Northern Italy
 categories: [Events]
 image: Damanhur-pieni.jpg
 ---
-Research visits to Tertulia Forest Coliving & Coworking Farm in Tuscany and Damanhur – Federation of Spiritual Communities in Piedmont, March 4-8, 2025. 
+Research visits to Damanhur – Federation of Spiritual Communities in Piedmont, March 4-8, 2025. 
 
