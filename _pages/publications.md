@@ -19,6 +19,8 @@ Peltoniemi, Teuvo: "Journalistit suomalaisten utopiayhteisöjä rakentamassa". w
 
 Peltoniemi, Teuvo: ”Paratiiseja rakentamassa", haastattelijana Pekka Kettunen. Kirjailta, Siirtolaisuusinstituutti, Turku 14.5.2025.
 
+Peltoniemi, Teuvo: “Danish Socialist Colony and other Nordic Utopias”, Hays Public Library, Hays,KS, May 1,2025.
+
 Peltoniemi, Teuvo: ”Suomalaisten 20 utopiayhteisöä", APY:n senioriyhdistys, Botta, Helsinki, 17.4.2025.
 
 Peltoniemi,Teuvo :"Nordic utopian communities since the 1700s”. SASS2025, Minneapolis, MN, April 24-26, 2025.
@@ -29,11 +31,15 @@ Peltoniemi, Teuvo: ”Suomalaisutopistien jäljillä kuudessa maanosassa”, Seu
 
 *Peltoniemi, Teuvo: "Chasing Utopias in Canada - Utopioiden perässä Kanadassa". Länsirannikon uutiset – West Coast News, Spring Issue, Vancouver, February 27, 2025.
 
+Peltoniemi, Teuvo, interviewed by Liisa Vihmanen. "Suomalaiset utopiasiirtokunnat – kohti parempaa maailmaa". YLE Podcast Living History seríes 2025. https://areena.yle.fi/podcastit/1-72758565.
+
 **2024**
+
+Peltoniemi, Teuvo, interviewed by Kalle Haatanen. "Suomalaisten utopiayhteisöjen historia” YLE 2024. https://yleawsaudioipv4.akamaized.net/mediaredirect/78-532752bea51145139763433cda7d6f2f.mp3
 
 Peltoniemi, Teuvo: "Pienhiukkasten terveysvaarat - Näkymättömien saastuttajien jäljillä". Tiedetoimittaja 4/2024. https://www.tiedetoimittajat.fi/nakymattomien-saastuttajien-jaljilla-pienhiukkasten-terveysvaarat-oletettuja-pahempia/
 
-Peltoniemi, Teuvo: Jan Erolan Kainuun kirjamessuille tekemä videohaastattelu 12.12.2024. https://www.youtube.com/watch?v=mek_Zg2pGtk
+Peltoniemi, Teuvo: interviewd by Jan Erola. Kainuun kirjamessut 12.12.2024. https://www.youtube.com/watch?v=mek_Zg2pGtk
 
 Peltoniemi,Teuvo: ”Suomalaisutopistien jäljillä 1979–2024”, Benalmadenan Suomalaiset, Minerva, Benalmadena, Spain, 26.11.2024.
 
