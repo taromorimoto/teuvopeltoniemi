@@ -125,6 +125,8 @@ Peltoniemi, Teuvo:”Kylväjä suomalaisena utopiayhteisönä”,  Saatesanat�
 
 Peltoniemi, Teuvo: ”Täydellisen maailman kohtalo – suomalaisten utopiayhteisöt maailmalla.” Lake Worth, FL, USA 5.2.2020.
 
+Peltoniemi, Teuvo: ”Suomalaisten siirtolaisuus" Aurinkorannikon suomalainen seurakunta 5.3.2020.
+
 Peltoniemi, Teuvo: ”Onko kannabiksesta lääkkeeksi?” Tiedetoimittaja 1/2020.
 
 Peltoniemi, Teuvo: ”Hyvä, paha ja väheksytty kipu”. Tiedetoimittaja 1/2020.
