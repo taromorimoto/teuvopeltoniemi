@@ -277,11 +277,7 @@ Peltoniemi, Teuvo: Huumeita ja HIV:iä Jäämerellä. Iltalehti.fi -blogit 29.1.
 
 **2010**
 
-
-
 Peltoniemi, Teuvo: Meluaddiktit särkee mun korvat. Iltalehti.fi -blogit 3.12.2010.
-
-
 
 Peltoniemi, Teuvo: Verkkopalvelut päihdeprevention ja hoidon apuna. Paikallishallinnon yhteistoiminnan tehostaminen huumeiden vastaisessa työssä Murmanskin alueella -hankkeen 2010 päätösseminaari, Murmansk, Venäjä 1.12.2010.
 
@@ -303,9 +299,9 @@ Peltoniemi, Teuvo: 26 vuotta Päihdetiedotusseminaareja. "Riippuvuuksien yhteis
 
 Peltoniemi, Teuvo: Lopetetaan työpaikkojen huumetestaus tai testataan kunnolla. Iltalehti.fi -blogit 18.7.2010.
 
-\*Peltoniemi, Teuvo: Workplace drug testing in Finland in 2010. Paper presented at the Euridice Euroconference, Milan, Italy, 17\-18 June, 2010.
+\*Peltoniemi, Teuvo: Workplace drug testing in Finland in 2010. Euridice Euroconference, Milan, Italy, 17\-18 June, 2010.
 
-\*Peltoniemi, Teuvo: Prevalence and harms for children of alcohol families in Finland according to the national 1994, 2004 and 2009 Fragile Childhood surveys. Paper presented at the Third Encare Symposium, Bad Honnef, Germany, 9\-10 June, 2010.
+\*Peltoniemi, Teuvo: Prevalence and harms for children of alcohol families in Finland according to the national 1994, 2004 and 2009 Fragile Childhood surveys. Third Encare Symposium, Bad Honnef, Germany, 9\-10 June, 2010.
 
 Peltoniemi, Teuvo: Tuoteseloste viinapulloihin. Iltalehti.fi -blogit 22.4.2010.
 
@@ -666,7 +662,7 @@ Peltoniemi, Teuvo: A-klinikkasäätiön ja Tiimin kaksoisdiagnoosi. Tiimi 5/200
 
 \*Peltoniemi, Teuvo: ehealth - a powerful new approach in prevention and treatment of mental health issues. A paper prepared for the 28th Congress of The World Federation for Mental Health, “Equity and Mental Health”, Cairo, Egypt, 4-8 September 2005.
 
-\*Peltoniemi, Teuvo: New information technology stress at workplaces in Finland. A paper presented at the 28th Congress of The World Federation for Mental Health, “Equity and Mental Health”, Cairo, Egypt, 4-8 September 2005.
+\*Peltoniemi, Teuvo:" New information technology stress at workplaces in Finland". 28th Congress of The World Federation for Mental Health, “Equity and Mental Health”, Cairo, Egypt, 4-8 September 2005.
 
 \*Peltoniemi, Teuvo: Experiences and perspectives in using telematics in addictions prevention in Europe. “The use of audiovisual technology in addiction prevention and therapy” seminar, Athens, Greece, 26-30 June 2005.
 
@@ -1050,7 +1046,7 @@ Peltoniemi, Teuvo: Päihdetyöllä on myös lisäarvoa. Tiimi 6/1997.
 
 \*Peltoniemi, Teuvo: Prevention of alcohol problems - Nordic experiences. Regional Conference on Drug Dependencies, Rimini, Italy, April 14-17, 1997.
 
-\*Peltoniemi, Teuvo: Research and primary prevention: Evaluation of prevention in theory and in reality - Finnish experiences. A revised version of a paper presented at the III European Meeting of ITACA, Lisbon, May 22-24,
+\*Peltoniemi, Teuvo: Research and primary prevention: Evaluation of prevention in theory and in reality - Finnish experiences. A revised version of a paper presented at the III European Meeting of ITACA, Lisbon, May 22-24, 1997.
 
 \*Peltoniemi, Teuvo: Telematics, virtual reality and drugs. Inspiration Society Forum. Helsinki, Oct 31- Nov 1, 1997.
 
@@ -1092,7 +1088,7 @@ Peltoniemi, Teuvo: Tiedotusvälineiden seuraaminen Iberian suomalaisten keskuude
 
 \*Peltoniemi, Teuvo: "A Fragile Childhood "- A Finnish Health Education Project for the Children in Alcohol and Drug Abusing Families A paper prepared for ICDAPS-JISUS Conference On Effective Parenting to Prevent Drug Abuse in Conjunction with UN Day 30th October -1st November, 1994 Miyazaki, Japan.
 
-\*Peltoniemi, Teuvo: A Fragile Childhood - Project Description and Results from A Finnish National Survey and Prevention Project on Children Alcohol Abusing Families Paper presented ath the Tenth International Congress on Child Abuse and Neglect. Kuola Lumpur, Malesia 10-13 Sept 1994.
+\*Peltoniemi, Teuvo: A Fragile Childhood - Project Description and Results from A Finnish National Survey and Prevention Project on Children Alcohol Abusing Families. Tenth International Congress on Child Abuse and Neglect. Kuola Lumpur, Malesia 10-13 Sept 1994.
 
 \# Peltoniemi, Teuvo: Claudia Black: Kunpa isi ei joisi - päihdeperheen lapsen työkirja. Käännös. A-klinikkasäätiö. Helsinki 1994.
 
@@ -1112,7 +1108,7 @@ Peltoniemi, Teuvo: Nuorten päihdeongelmien arviointi ja hoito. Sosiomedia. Hel
 
 \*Peltoniemi, Teuvo: Barnets ställning i alkohol- och våldsfamiljer. V nordiske konference om barnmishandling og omsorgssvigt, Reykjavik 3-6.8.1992.
 
-\*Peltoniemi, Teuvo: Children in violent and alcohol abusing families: the Finnish "Fragile Childhood" project. Paper presented at the Ninth international congress on child abuse and neglect, Chicago 30 August - 2 September, 1992.
+\*Peltoniemi, Teuvo: Children in violent and alcohol abusing families: the Finnish "Fragile Childhood" project. Ninth international congress on child abuse and neglect, Chicago 30 August - 2 September, 1992.
 
 Peltoniemi, Teuvo: Kohti parempaa maailmaa: Suomalaisten ihannesiirtolaisuus. Sukuviesti 2/1992:15-16
 
@@ -1181,7 +1177,7 @@ Peltoniemi, Teuvo: Opaskirja lasten seksuaalisen hyväksikäytön hoidosta. Sti
 
 **1990**
 
-\*Peltoniemi, Teuvo: Alcohol and family violence. A paper presented at the 8th International congress on child abuse and neglect. Hamburg, September 2-6, 1990.
+\*Peltoniemi, Teuvo: Alcohol and family violence. 8th International congress on child abuse and neglect. Hamburg, September 2-6, 1990.
 
 \*Peltoniemi, Teuvo: Barn, våld, alkohol. Plenumföredrag på det IV nordiskt seminar om omsorgssvikt och barn som far illa. Åbo, Finland 3-5.5.1990.
 
@@ -1219,7 +1215,7 @@ Peltoniemi, Teuvo: Alkoholitiedotus moraalisena ongelmana. Julkinen sana ja alk
 
 \*Peltoniemi, Teuvo: Family Violence and changing ideologies in shelter movement. Pp. 333-366 in: Fattah, Ezzat A. (ed.): The plight of crime victims in modern society. Macmillan. London 1989.
 
-\*Peltoniemi, Teuvo: Family violence - incidence and attitudes in Finland in 1981 and 1985. Paper presented at the Second European conference on child abuse and neglect, Brussels, Belgium, April 24-28, 1989.
+\*Peltoniemi, Teuvo: Family violence - incidence and attitudes in Finland in 1981 and 1985. Second European conference on child abuse and neglect, Brussels, Belgium, April 24-28, 1989.
 
 Munsterhjelm-Linko, Maria & Peltoniemi, Teuvo & Soikkeli, Markku & Warsell, Leena & Wuori, Lasse: "Lasinen lapsuus" kuvasarja. Kolmiosainen postikortti- ja julistesarja. A-klinikkasäätiö, Alko ja Helsingin kaupungin sosiaaliviraston raittiustoimisto 1989.
 
@@ -1233,7 +1229,7 @@ Peltoniemi, Teuvo: Namusedät ja namuisät - Seksuaalinen hyväksikäyttö. Tiim
 
 \*Peltoniemi, Teuvo: New technology in alcohol education - the Helsinki Alcophohe and Alcoscreen. Unesco expert meeting on drug education. Ottawa. September 18-22, 1989.
 
-\*Peltoniemi, Teuvo: Sexual victimization of children in Finland. Paper presented at the Fifth World Congress of Victimology, Acapulco, Mexico, July 26-30, 1989. (27 s.)
+\*Peltoniemi, Teuvo: Sexual victimization of children in Finland. Fifth World Congress of Victimology, Acapulco, Mexico, July 26-30, 1989. (27 s.)
 
 \*Peltoniemi, Teuvo: Staff and treatment in a statutory outpatient care agency for alcoholics in Helsinki, Finland. Pp. 257-260 in: Einstein, Stanley (ed.): Drug and alcohol use - issues and factors. Plenum. New York 1989.
 
@@ -1311,7 +1307,7 @@ Peltoniemi, Teuvo: Finnish Utopias in North America. Finnfest86. Berkeley, Calif
 
 \*Peltoniemi, Teuvo: Finnish Utopian Communities in North America. Työmies - Eteenpäin - The Finnish-American Reporter. (Duluth, Minn.) October 1986.
 
-\*Peltoniemi, Teuvo: New Technology in Alcohol Education - The Helsinki AlcoPhone. A paper presented at the 32nd International Institute on the Prevention and Treatment of Alcoholism, Budapest, Hungary, June 1-6, 1986.
+\*Peltoniemi, Teuvo: New Technology in Alcohol Education - The Helsinki AlcoPhone. 32nd International Institute on the Prevention and Treatment of Alcoholism, Budapest, Hungary, June 1-6, 1986.
 
 \*Peltoniemi, Teuvo: Suche nach einer besseren Welt. Saksankielinen versio julkaisusta Kohti parempaa maailmaa. Helsinki 1986
 
@@ -1381,7 +1377,7 @@ Peltoniemi, Teuvo: Star Gemini 10X: meluisa mutta toimiva. Tietokone 1/1985.
 
 **1984**
 
-\*Peltoniemi, Teuvo: Alcohol and family violence. Paper presented at the Second National Conference for Family Violence Researchers, Durham, N.H. August 4-7, 1984.
+\*Peltoniemi, Teuvo: "Alcohol and family violence". Second National Conference for Family Violence Researchers, Durham, N.H. August 4-7, 1984.
 
 \*Peltoniemi, Teuvo: Family violence. Pp. 197-210 in: Towards a victim policy in Europe. Helsinki Institute for Crime Prevention and Control Affiliated with the United Nations. Report no 2. Helsinki 1984.
 
@@ -1411,7 +1407,7 @@ Peltoniemi, Teuvo: Perheväkivalta ja sosiaalitoimi. Suomen Lääkärilehti. Vo
 
 Peltoniemi, Teuvo: Perheväkivalta sosiaalisena ongelmana. Alkoholipolitiikka. Vol. 49(3): 147-155, 1984.
 
-\*Peltoniemi, Teuvo: Strategies to cope with family violence among the Finnish and Swedish population. Paper presented at the Fifth International Congress on Child Abuse and Neglect. Montreal, Quebec, Canada, Sept. 16-19, 1984.
+\*Peltoniemi, Teuvo: Strategies to cope with family violence among the Finnish and Swedish population. Fifth International Congress on Child Abuse and Neglect. Montreal, Quebec, Canada, Sept. 16-19, 1984.
 
 Peltoniemi, Teuvo: Suomessa tarvitaan tietoa lasten seksuaalisesta hyväksikäytöstä. Lapset ja yhteiskunta. Vol. 43(3): 182-185, 1984.
 
