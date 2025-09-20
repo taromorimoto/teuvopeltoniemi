@@ -39,7 +39,7 @@ Peltoniemi, Teuvo, interviewed by Kalle Haatanen. "Suomalaisten utopiayhteisöje
 
 Peltoniemi, Teuvo: "Pienhiukkasten terveysvaarat - Näkymättömien saastuttajien jäljillä". Tiedetoimittaja 4/2024. https://www.tiedetoimittajat.fi/nakymattomien-saastuttajien-jaljilla-pienhiukkasten-terveysvaarat-oletettuja-pahempia/
 
-Peltoniemi, Teuvo: interviewd by Jan Erola. Kainuun kirjamessut 12.12.2024. https://www.youtube.com/watch?v=mek_Zg2pGtk
+Peltoniemi, Teuvo: interviewed by Jan Erola. Kainuun kirjamessut 12.12.2024. https://www.youtube.com/watch?v=mek_Zg2pGtk
 
 Peltoniemi,Teuvo: ”Suomalaisutopistien jäljillä 1979–2024”, Benalmadenan Suomalaiset, Minerva, Benalmadena, Spain, 26.11.2024.
 
