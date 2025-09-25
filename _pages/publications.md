@@ -12,7 +12,7 @@ The list includes my scientific, professional, and popular papers, articles, boo
 
 **2025**
 
-Peltoniemi, Teuvo: "Paratiiseja rakentamassa  - Suomalaisten utopiayhteisöjen  jäljillä 1979–2025". Kirjailijaviraana. Karkkilan kaupunginkirjasto 15.9.2025.
+Peltoniemi, Teuvo: "Paratiiseja rakentamassa  - Suomalaisten utopiayhteisöjen  jäljillä 1979–2025". Kirjailijavieraana. Karkkilan kaupunginkirjasto 15.9.2025.
 
 Peltoniemi, Teuvo: "Journalistit suomalaisten utopiayhteisöjä rakentamassa". www.sanomalehtimiesliitto.fi/juttuja/blogit, Helsinki 1.9.2025.
 
