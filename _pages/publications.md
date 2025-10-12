@@ -12,6 +12,8 @@ The list includes my scientific, professional, and popular papers, articles, boo
 
 **2025**
 
+Peltoniemi, Teuvo: “Maggie Walz: American Finnish Suffragette, entrepreneur and utopist”. Presentation at 35th AEMI conference in Ruhr Museum, Essen, Germany, 8-10.2025.
+
 Peltoniemi, Teuvo: "Paratiiseja rakentamassa  - Suomalaisten utopiayhteisöjen  jäljillä 1979–2025". Kirjailijavieraana. Karkkilan kaupunginkirjasto 15.9.2025.
 
 Peltoniemi, Teuvo: "Journalistit suomalaisten utopiayhteisöjä rakentamassa". www.sanomalehtimiesliitto.fi/juttuja/blogit, Helsinki 1.9.2025.
