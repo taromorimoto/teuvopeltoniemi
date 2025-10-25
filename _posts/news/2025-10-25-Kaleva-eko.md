@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Eco communities lecture,Fuengirola, Spain
+title: Eco communities lecture, Fuengirola, Spain
 categories: [Presentation]
 image: kaleva-eko2025.jpg
 ---
-Teuvo Peltoniemi:”Ekoyhteisöt utopiayhteisöjen jatkajina”. Taide ja Tapas: Kaleva, Fuengirola 25.10.2025
+Teuvo Peltoniemi:”Ekoyhteisöt utopiayhteisöjen jatkajina”. Taide ja Tapas: Kaleva, Fuengirola 25.10.2025.
