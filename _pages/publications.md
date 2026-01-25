@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2025
 
-The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated October 29, 2025*
+The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated January 25, 2026*
 
 **2025**
 
@@ -1605,6 +1605,8 @@ Peltoniemi, Teuvo: Hoitoa, huoltoa vai kontrollia? "Pakon ja vapaaehtoisuuden u
 Peltoniemi, Teuvo: Kemiläisten koululaisten alkoholinkäytön perustelut. Jatuli - Kemin kotiseutu- ja museoyhdisyksen julkaisu XVII. Kemi 1979: 276-282.
 
 Peltoniemi, Teuvo: Perheväkivallan käsite ja olemus. Suomen Lääkärilehti 1979. (34): 2079-2086.
+
+Peltoniemi, Teuvo: Kohti parempaa maailmaa -  Pohjois-Amerikan suomalaiset utopiasiirtokunnat. Itsenäisyyspäivän matinea ”Utopia - rauha, kulttuuri, tulevaisuus”. Messuhalli Helsinki 6.12.1979.
 
 Peltoniemi, Teuvo: Perheväkivallan oudot kuviot. Neliöartikkeli: Helsingin Sanomat 18.10.1979.
 
