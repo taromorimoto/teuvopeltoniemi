@@ -6,7 +6,7 @@ title: Full detailed CV
 
 ## Mr. Teuvo Peltoniemi
 
-Updated Jan. 5, 2025
+Updated Jan. 28, 2026
 
 Contact: [www.teuvopeltoniemi.net](www.teuvopeltoniemi.net), [www.facebook.com/teuvo.peltoniemi](www.facebook.com/teuvo.peltoniemi)
 
@@ -67,6 +67,7 @@ Finnish, English, Swedish, German
 
 * Costa Press Club, Spain
 * The Finnish Association of Journalists SSL
+* European Journalists network EJN
 * Finnish Association of Magazine Editors-in-Chief
 * Finnish Association of Science Editors and Journalists (Board member 2009-2014)
 * Finnish Environmental Journalists Association
