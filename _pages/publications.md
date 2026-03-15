@@ -12,7 +12,7 @@ The list includes my scientific, professional, and popular papers, articles, boo
 
 **2026**
 
-Peltoniemi, Teuvo:”Maggie Walz and her Drummond utopian community (1905–1930)”. pp 181–202 in: Jeppesen, Emma Barnhøj: (ed.) ”Migration, Gender and Generation: New Perspectives on Migration.”  AEMI Journal, Volume 23/2026. Copenhagen 2026.
+\*Peltoniemi, Teuvo: ”Maggie Walz and her Drummond utopian community (1905–1930)”. pp 181–202 in: Jeppesen, Emma Barnhøj: (ed.) ”Migration, Gender and Generation: New Perspectives on Migration.”  AEMI Journal, Volume 23/2026. Copenhagen 2026.
 
 **2025**
 
@@ -20,23 +20,23 @@ Peltoniemi, Teuvo: ”Suomalaisia utopiayhteisöjä kuudessa maanosassa”, Kirj
 
 Peltoniemi, Teuvo: ”Ekoyhteisöt utopiayhteisöjen jatkajina”. Taide ja Tapas: Kaleva, Fuengirola, Spain 25.10.2025.
 
-Peltoniemi, Teuvo: “Maggie Walz: American Finnish suffragette, entrepreneur and utopist”. Presentation at 35th AEMI conference in Ruhr Museum, Essen, Germany, 8-10.2025.
+\*Peltoniemi, Teuvo: “Maggie Walz: American Finnish suffragette, entrepreneur and utopist”. Presentation at 35th AEMI conference in Ruhr Museum, Essen, Germany, 8-10.2025.
 
 Peltoniemi, Teuvo: "Paratiiseja rakentamassa  - Suomalaisten utopiayhteisöjen  jäljillä 1979–2025". Kirjailijavieraana. Karkkilan kaupunginkirjasto 15.9.2025.
 
 Peltoniemi, Teuvo: "Journalistit suomalaisten utopiayhteisöjä rakentamassa". www.sanomalehtimiesliitto.fi/juttuja/blogit, Helsinki 1.9.2025.
 
-*Peltoniemi, Teuvo: "Finnish & Scandinavian Utopias". NAAS2025, Turku, June 4-6, 2025.
+\*Peltoniemi, Teuvo: "Finnish & Scandinavian Utopias". NAAS2025, Turku, June 4-6, 2025.
 
 Peltoniemi, Teuvo: ”Paratiiseja rakentamassa", haastattelijana Pekka Kettunen. Kirjailta, Siirtolaisuusinstituutti, Turku 14.5.2025.
 
-Peltoniemi, Teuvo: “Danish Socialist Colony and other Nordic Utopias”, Hays Public Library, Hays,KS, May 1,2025.
+\*Peltoniemi, Teuvo: “Danish Socialist Colony and other Nordic Utopias”, Hays Public Library, Hays,KS, May 1,2025.
 
 Peltoniemi, Teuvo: ”Suomalaisten 20 utopiayhteisöä", APY:n senioriyhdistys, Botta, Helsinki, 17.4.2025.
 
-Peltoniemi,Teuvo :"Nordic utopian communities since the 1700s”. SASS2025, Minneapolis, MN, April 24-26, 2025.
+\*Peltoniemi,Teuvo :"Nordic utopian communities since the 1700s”. SASS2025, Minneapolis, MN, April 24-26, 2025.
 
-*Peltoniemi, Teuvo: “Intentional communities: modern heirs to utopian migration” pp. 101-117 in AEMI journal, volume 21/22, 2024-2025, AEMI, Copenhagen 2025.
+\*Peltoniemi, Teuvo: “Intentional communities: modern heirs to utopian migration” pp. 101-117 in AEMI journal, volume 21/22, 2024-2025, AEMI, Copenhagen 2025.
 
 Peltoniemi, Teuvo: ”Suomalaisutopistien jäljillä kuudessa maanosassa”, Seurakuntakoti, Fuengirola, Espanja, 21.3.2025.
 
@@ -58,7 +58,7 @@ Peltoniemi, Teuvo: ”Suomalaisutopistien jäljillä 1979–2024 - Kohtaamisia j
 
 \#Peltoniemi, Teuvo: “Paratiiseja rakentamassa - Suomalaisten utopiayhteisöjen historiaa", SKS-kirjat. 459 sivua. ISBN: 978-951-858-550-6, Helsinki 2024.
  
-*Peltoniemi, Teuvo: “Eco communities and migration: Intentional communities as modern descendants of old Utopian migration”. 34th Annual AEMI Conference, Dudelange, Luxembourg, 25-28 September, 2024.
+\*Peltoniemi, Teuvo: “Eco communities and migration: Intentional communities as modern descendants of old Utopian migration”. 34th Annual AEMI Conference, Dudelange, Luxembourg, 25-28 September, 2024.
 
 \*Peltoniemi, Teuvo: “Finnish and Scandinavian utopian communities in Canada and round the world”. Presentation at Scandinavian Community Centre, Vancouver, August 5, 2024.
 
