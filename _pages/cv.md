@@ -8,7 +8,7 @@ title: Full detailed CV
 
 Updated Jan. 28, 2026
 
-Contact: [www.teuvopeltoniemi.net](www.teuvopeltoniemi.net), [www.facebook.com/teuvo.peltoniemi](www.facebook.com/teuvo.peltoniemi)
+Contact: [www.teuvopeltoniemi.fi](https://www.teuvopeltoniemi.fi), [www.facebook.com/teuvo.peltoniemi](https://www.facebook.com/teuvo.peltoniemi)
 
 
 ### Summary CV
