@@ -24,4 +24,5 @@ Teuvo Peltoniemi ja hänen ideoimansa ja johtamansa hankkeet ovat saaneet useita
 
 Linkkejä:  www.teuvopeltoniemi.fi, Teuvo Peltoniemi WIKIPEDIA Suomi ja Englanti.
 [Tarkemmat CV-tiedot]({{ site.baseurl }}/cv)
+
 Päivitetty 25.3.2026
