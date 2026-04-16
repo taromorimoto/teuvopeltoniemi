@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Utopian book presentation in Kirkkonummi
 categories: [Presentation]
 image: KirkkonummiX2026.jpg
 ---
