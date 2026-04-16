@@ -13,7 +13,7 @@ The list includes my scientific, professional, and popular papers, articles, boo
 
 **2026**
 
-Peltoniemi, Teuvo: Suomalaisutopistien jäljillä 1979–2026. Ihannesiirtokuntia kuudessa maanosassa. Fyyri-kirjasto, Kirkkonummi 13.4.2026.
+Peltoniemi, Teuvo: "Suomalaisutopistien jäljillä 1979–2026. Ihannesiirtokuntia kuudessa maanosassa". Fyyri-kirjasto, Kirkkonummi 13.4.2026.
 
 \*Peltoniemi, Teuvo: ”Suomalaisten ja norjalaisten utopiayhteisöt” – ”Finske og norske utopiasamfunn” ss. 19–22. Norjalais-suomalaisen yhdistyksen jäsenlehti: NFF-NYTT1/2026, Oslo 2026.
 
