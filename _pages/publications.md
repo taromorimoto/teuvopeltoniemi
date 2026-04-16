@@ -8,9 +8,12 @@ permalink: /publications/
 
 ## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2025
 
-The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated March 25, 2026*
+The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated April 13, 2026.
+
 
 **2026**
+
+Peltoniemi, Teuvo: Suomalaisutopistien jäljillä 1979–2026. Ihannesiirtokuntia kuudessa maanosassa. Fyyri-kirjasto, Kirkkonummi 13.4.2026.
 
 \*Peltoniemi, Teuvo: ”Suomalaisten ja norjalaisten utopiayhteisöt” – ”Finske og norske utopiasamfunn” ss. 19–22. Norjalais-suomalaisen yhdistyksen jäsenlehti: NFF-NYTT1/2026, Oslo 2026.
 
