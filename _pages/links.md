@@ -12,8 +12,6 @@ permalink: /links/
 
 [Teuvo Peltoniemi WIKIPEDIA Suomi](https://fi.wikipedia.org/wiki/Teuvo_Peltoniemi)
 
-[Sosiomedia Oy](http://www.sosiomedia.fi/)
-
 [Päihdelinkki](https://paihdelinkki.fi/)
 
 [Lasinen lapsuus](https://lasinenlapsuus.fi/)
