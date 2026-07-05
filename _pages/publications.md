@@ -4,29 +4,20 @@ layout: page
 title: Publications by Teuvo Peltoniemi
 permalink: /publications/
 
-**2026**
-
 The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated July 6, 2026.
-
-
-Peltoniemi, Teuvo: "The American Dream – Rise and Fall of Maggie Walz¬ - American Finnish suffragette, entrepreneur and utopist”. The 26th Conference of the Utopian Studies Society/Europe, University of Bucharest, Romania. July 1-4, 2026.
-
-Peltoniemi, Teuvo: “Suomalaisutopistien jäljillä 1979–2026. Ihannesiirtokuntia kuudessa maanosassa”. Fyyri-kirjasto, Kirkkonummi 13.4.2026.
-
-*Peltoniemi, Teuvo: ”Suomalaisten ja norjalaisten utopiayhteisöt” – ”Finske og norske utopiasamfunn” ss. 19–22. Norjalais-suomalaisen yhdistyksen jäsenlehti: NFF-NYTT1/2026, Oslo 2026.
-
-*Peltoniemi, Teuvo: ”Maggie Walz and her Drummond utopian community (1905–1930)”. pp 181–202 in: Jeppesen, Emma Barnhøj: (ed.) ”Migration, Gender and Generation: New Perspectives on Migration.” AEMI Journal, Volume 23/2026. Copenhagen 2026.
-
-2025
 
 ## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2026
 
+**2026**
+
+Peltoniemi, Teuvo: "The American Dream – Rise and Fall of Maggie Walz - American Finnish suffragette, entrepreneur and utopist”. The 26th Conference of the Utopian Studies Society/Europe, University of Bucharest, Romania. July 1-4, 2026.
+
+Peltoniemi, Teuvo: “Suomalaisutopistien jäljillä 1979–2026. Ihannesiirtokuntia kuudessa maanosassa”. Fyyri-kirjasto, Kirkkonummi 13.4.2026.
 
 
+\*
 
-
-
-
+\*Peltoniemi, Teuvo: ”Maggie Walz and her Drummond utopian community (1905–1930)”. pp 181–202 in: Jeppesen, Emma Barnhøj: (ed.) ”Migration, Gender and Generation: New Perspectives on Migration.” AEMI Journal, Volume 23/2026. Copenhagen 2026.
 
 Peltoniemi, Teuvo: "Suomalaisutopistien jäljillä 1979–2026. Ihannesiirtokuntia kuudessa maanosassa". Fyyri-kirjasto, Kirkkonummi 13.4.2026.
 
