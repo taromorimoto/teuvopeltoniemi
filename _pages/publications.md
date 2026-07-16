@@ -12,9 +12,9 @@ The list includes my scientific, professional, and popular papers, articles, boo
 
 **2026**
 
-Teuvo Peltoniemi: “Virtual and Space Communities as Utopias”, pp 204–215 in: Elisabetta Di Minico & Stefano Locati  eds): “The otherness within us – The (post)human condition in times of crisis.  Futuri Speciale 2026. Rivista Italiana di Futures Studies. Summer 2026 Special Issue. (Peer-reviewed article
+\*Peltoniemi, Teuvo: “Virtual and Space Communities as Utopias”, pp 204–215 in: Elisabetta Di Minico & Stefano Locati  eds): “The otherness within us – The (post)human condition in times of crisis.  Futuri Speciale 2026. Rivista Italiana di Futures Studies. Summer 2026 Special Issue. (Peer-reviewed article)
 
-Peltoniemi, Teuvo: "The American Dream – Rise and Fall of Maggie Walz - American Finnish suffragette, entrepreneur and utopist”. The 26th Conference of the Utopian Studies Society/Europe, University of Bucharest, Romania. July 1-4, 2026.
+\*Peltoniemi, Teuvo: "The American Dream – Rise and Fall of Maggie Walz - American Finnish suffragette, entrepreneur and utopist”. The 26th Conference of the Utopian Studies Society/Europe, University of Bucharest, Romania. July 1-4, 2026.
 
 Peltoniemi, Teuvo: “Suomalaisutopistien jäljillä 1979–2026. Ihannesiirtokuntia kuudessa maanosassa”. Fyyri-kirjasto, Kirkkonummi 13.4.2026.
 
