@@ -6,11 +6,13 @@ permalink: /publications/
 
 ---
 
-The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated July 6, 2026.
+The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated July 16, 2026.
 
 ## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2026
 
 **2026**
+
+Teuvo Peltoniemi: “Virtual and Space Communities as Utopias”, pp 204–215 in: Elisabetta Di Minico & Stefano Locati  eds): “The otherness within us – The (post)human condition in times of crisis.  Futuri Speciale 2026. Rivista Italiana di Futures Studies. Summer 2026 Special Issue. (Peer-reviewed article
 
 Peltoniemi, Teuvo: "The American Dream – Rise and Fall of Maggie Walz - American Finnish suffragette, entrepreneur and utopist”. The 26th Conference of the Utopian Studies Society/Europe, University of Bucharest, Romania. July 1-4, 2026.
 
