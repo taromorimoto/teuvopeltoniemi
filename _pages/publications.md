@@ -6,11 +6,13 @@ permalink: /publications/
 
 ---
 
-The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated August 15, 2026.
+The list includes my scientific, professional, and popular papers, articles, books and net items. Journalistic style brief newspaper items and short radio and television reports are not listed, nor articles, radio and television programs where only appeared as interviewed (interviews count several hundreds). Items not in Finnish are marked by **\***. Books, exhibitions etc. of which there is a more detailed list in the separate linked Books file are marked by **#**. This is not a complete list, as there are many gaps especially for years 1990-2001.  Many of the recent items can easily be found also on-line. *Updated September 1, 2026.
 
 ## PAPERS, PRESENTATIONS, ARTICLES, BOOKS, BOOKLETS, RADIO, TELEVISION, VIDEO AND WEB PROGRAM MANUSCRIPTS 1969-2026
 
 **2026**
+
+Peltoniemi, Teuvo: Aavan meren tuolla puolen jossakin on maa.. - Suomalaisutopistien jäljillä 1979-2026. Keski-Espoon senioritapahtuma, Espoon valtuustotalo 1.9.2026.
 
 Peltoniemi, Teuvo: "Kohti parempaa maailmaa – Pohjois-Amerikan suomalaiset utopiasiirtokunnat". Uusi Sivu 15.8.2026. https://uusisivu.fi/yhteiskunta-ja-aktivismi/kohti-parempaa-maailmaa-pohjois-amerikan-suomalaiset-utopiasiirtokunnat/.
 
