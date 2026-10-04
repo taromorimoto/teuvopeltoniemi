@@ -12,7 +12,7 @@ The list includes my scientific, professional, and popular papers, articles, boo
 
 **2026**
 
-Virtanen, Matti:(A review of the book of Peltoniemi, Teuvo: "Paratiiseja rakentamassa" ("Building Paradises"SKS 2024").Yhteiskuntapolitiikka 4/2026.(https://urn.fi/URN:NBN:fi-fe20260908123865). 
+Virtanen, Matti: (A review of the book of Peltoniemi, Teuvo: "Paratiiseja rakentamassa" ("Building Paradises", SKS 2024). Yhteiskuntapolitiikka 4/2026.(https://urn.fi/URN:NBN:fi-fe20260908123865). 
 
 Peltoniemi, Teuvo: Aavan meren tuolla puolen jossakin on maa.. - Suomalaisutopistien jäljillä 1979-2026. Keski-Espoon senioritapahtuma, Espoon valtuustotalo 1.9.2026.
 
